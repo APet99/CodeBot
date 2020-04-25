@@ -1,0 +1,78 @@
+[2020-04-25 00:16:08] [INFO] red.main: Signals.SIGINT received. Quitting...
+[2020-04-25 00:16:08] [INFO] red.main: Shutting down with exit code: ExitCodes.SHUTDOWN
+[2020-04-25 00:17:16] [CRITICAL] red.main: The main bot task didn't handle an exception and has crashed
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.8/site-packages/redbot/__main__.py", line 502, in main
+    loop.run_forever()
+  File "uvloop/loop.pyx", line 1351, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 519, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 436, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 90, in uvloop.loop.Handle._run
+  File "uvloop/cbhandles.pyx", line 68, in uvloop.loop.Handle._run
+  File "/home/pi/.local/lib/python3.8/site-packages/redbot/__main__.py", line 409, in shutdown_handler
+    sys.exit(ExitCodes.SHUTDOWN)
+SystemExit: ExitCodes.SHUTDOWN
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.8/site-packages/redbot/__main__.py", line 449, in red_exception_handler
+    red_task.result()
+  File "/home/pi/.local/lib/python3.8/site-packages/redbot/__main__.py", line 362, in run_bot
+    new_token = await interactive_config(
+  File "/home/pi/.local/lib/python3.8/site-packages/redbot/core/cli.py", line 72, in interactive_config
+    await red._config.prefix.set([prefix])
+  File "/home/pi/.local/lib/python3.8/site-packages/redbot/core/config.py", line 257, in set
+    await self.driver.set(self.identifier_data, value=value)
+  File "/home/pi/.local/lib/python3.8/site-packages/redbot/core/drivers/postgres/postgres.py", line 157, in set
+    await self._execute(
+  File "/home/pi/.local/lib/python3.8/site-packages/redbot/core/drivers/postgres/postgres.py", line 255, in _execute
+    return await method(query, *args)
+  File "/home/pi/.local/lib/python3.8/site-packages/asyncpg/pool.py", line 517, in execute
+    async with self.acquire() as con:
+  File "/home/pi/.local/lib/python3.8/site-packages/asyncpg/pool.py", line 773, in __aenter__
+    self.connection = await self.pool._acquire(self.timeout)
+  File "/home/pi/.local/lib/python3.8/site-packages/asyncpg/pool.py", line 609, in _acquire
+    raise exceptions.InterfaceError('pool is closing')
+asyncpg.exceptions._base.InterfaceError: pool is closing
+[2020-04-25 00:17:16] [WARNING] red.main: Attempting to die as gracefully as possible...
+[2020-04-25 00:17:16] [INFO] red.main: Shutting down from unhandled exception
+[2020-04-25 00:17:16] [CRITICAL] red.main: Caught unhandled exception in task:
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.8/site-packages/redbot/__main__.py", line 502, in main
+    loop.run_forever()
+  File "uvloop/loop.pyx", line 1351, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 519, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 436, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 90, in uvloop.loop.Handle._run
+  File "uvloop/cbhandles.pyx", line 68, in uvloop.loop.Handle._run
+  File "/home/pi/.local/lib/python3.8/site-packages/redbot/__main__.py", line 409, in shutdown_handler
+    sys.exit(ExitCodes.SHUTDOWN)
+SystemExit: ExitCodes.SHUTDOWN
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "uvloop/cbhandles.pyx", line 70, in uvloop.loop.Handle._run
+  File "/usr/local/lib/python3.8/asyncio/tasks.py", line 707, in cancel
+    if child.cancel():
+  File "/usr/local/lib/python3.8/asyncio/tasks.py", line 707, in cancel
+    if child.cancel():
+  File "/usr/local/lib/python3.8/asyncio/tasks.py", line 707, in cancel
+    if child.cancel():
+  [Previous line repeated 494 more times]
+  File "/usr/local/lib/python3.8/asyncio/tasks.py", line 703, in cancel
+    if self.done():
+RecursionError: maximum recursion depth exceeded while calling a Python object
+[2020-04-25 00:18:08] [INFO] red.main: Signals.SIGINT received. Quitting...
+[2020-04-25 00:18:08] [INFO] red.main: Please wait, cleaning up a bit more
+[2020-04-25 00:18:10] [CRITICAL] red.main: Caught unhandled exception in task: Task was destroyed but it is pending!
+[2020-04-25 00:18:21] [INFO] red: Begin updating guild configs to support multiple mod/admin roles
+[2020-04-25 00:18:21] [INFO] red: Done updating guild configs to support multiple mod/admin roles
+[2020-04-25 00:18:21] [INFO] red: Moving shared API tokens to a custom group
+[2020-04-25 00:22:01] [INFO] red.main: Signals.SIGINT received. Quitting...
+[2020-04-25 00:22:01] [INFO] red.main: Shutting down with exit code: ExitCodes.SHUTDOWN
+[2020-04-25 00:22:01] [INFO] red.main: Please wait, cleaning up a bit more
+[2020-04-25 00:29:06] [INFO] red.main: Signals.SIGINT received. Quitting...
+[2020-04-25 00:29:06] [INFO] red.main: Shutting down with exit code: ExitCodes.SHUTDOWN
+[2020-04-25 00:29:07] [INFO] red.main: Please wait, cleaning up a bit more

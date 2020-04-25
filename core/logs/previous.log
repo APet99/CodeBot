@@ -1,0 +1,6 @@
+[2020-04-25 00:18:21] [INFO] red: Begin updating guild configs to support multiple mod/admin roles
+[2020-04-25 00:18:21] [INFO] red: Done updating guild configs to support multiple mod/admin roles
+[2020-04-25 00:18:21] [INFO] red: Moving shared API tokens to a custom group
+[2020-04-25 00:22:01] [INFO] red.main: Signals.SIGINT received. Quitting...
+[2020-04-25 00:22:01] [INFO] red.main: Shutting down with exit code: ExitCodes.SHUTDOWN
+[2020-04-25 00:22:01] [INFO] red.main: Please wait, cleaning up a bit more
