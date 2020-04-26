@@ -18,7 +18,7 @@ class Mycog(commands.Cog):
 
     @commands.command()
     async def gitpull(self, ctx):
-        os.system('git pull')
+        os.system('cd /home/pi/.local/share/Red-DiscordBot/data/CodeBot && git pull')
         await ctx.send("I pulled the code!")
 
     @commands.command()
