@@ -1,0 +1,200 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615727101667966976,
+            "name" : "egr305-egr_stats"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83d\udc40",
+        "id" : 704767300208689265,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 18:53:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615727101667966976,
+            "name" : "egr305-egr_stats"
+        },
+        "channel_mentions" : [],
+        "content" : "I see",
+        "id" : 704767210022895726,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 18:53:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615727101667966976,
+            "name" : "egr305-egr_stats"
+        },
+        "channel_mentions" : [],
+        "content" : "its easier to use covariance over standard deviation of x and y",
+        "id" : 704764220738240552,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 18:41:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615727101667966976,
+            "name" : "egr305-egr_stats"
+        },
+        "channel_mentions" : [],
+        "content" : "the z scores of the x and y",
+        "id" : 704763966550835351,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 18:40:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615727101667966976,
+            "name" : "egr305-egr_stats"
+        },
+        "channel_mentions" : [],
+        "content" : "Just use Excel, that's what we'd recommend",
+        "id" : 704763955180208186,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 18:40:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615727101667966976,
+            "name" : "egr305-egr_stats"
+        },
+        "channel_mentions" : [],
+        "content" : "What is Zx and Zy?",
+        "id" : 704763915476664391,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 18:40:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615727101667966976,
+            "name" : "egr305-egr_stats"
+        },
+        "channel_mentions" : [],
+        "content" : "its a",
+        "id" : 704763819091820615,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 18:39:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615727101667966976,
+            "name" : "egr305-egr_stats"
+        },
+        "channel_mentions" : [],
+        "content" : "Sorry ):",
+        "id" : 704763616246759464,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 18:38:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615727101667966976,
+            "name" : "egr305-egr_stats"
+        },
+        "channel_mentions" : [],
+        "content" : "Anyone in Dr. Kim's section understand question 45 from the review questions?",
+        "id" : 704760565402173446,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 18:26:52",
+        "tts" : false
+    }
+]

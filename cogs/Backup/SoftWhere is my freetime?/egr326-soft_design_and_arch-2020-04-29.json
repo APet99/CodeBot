@@ -1,0 +1,2208 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 702272792996872275,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 21:41:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 702272666824081480,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 21:40:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "ooo",
+        "id" : 700458118643187758,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 21:30:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "A burrito \ud83d\ude0b",
+        "id" : 700458102893576192,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 21:30:25",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!121018207958990849> whatcha eating",
+        "id" : 700458040973066311,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "1724",
+                "display_name" : "Austen",
+                "id" : 121018207958990849,
+                "name" : "TheImmortalVoid"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 21:30:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Never leave home without them",
+        "id" : 700456755288866828,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 21:25:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Always have em with you",
+        "id" : 700456653442777140,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 21:24:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3527",
+            "display_name" : "Abanoub",
+            "id" : 167338910324621313,
+            "name" : "Bondou"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!383020271336030209> OAR!",
+        "id" : 700456574203985950,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3540",
+                "display_name" : "Chase Crossley",
+                "id" : 383020271336030209,
+                "name" : "dakotac55"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 21:24:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83d\udc4c\ud83c\udffe",
+        "id" : 700450520078352406,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 21:00:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "so looks like class is cancelled for this class as well",
+        "id" : 700450461244850177,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 21:00:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "the room is open, but i think all of webex might still be down",
+        "id" : 700450371910369310,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 20:59:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "its down",
+        "id" : 700450338930688100,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 20:59:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "she may not have opened the room?",
+        "id" : 700450260639678664,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 20:59:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "no",
+        "id" : 700450180750901258,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 20:58:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "you guys able to connect?",
+        "id" : 700450157929562122,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 20:58:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 697915009199505479,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:05:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!383020271336030209>",
+        "id" : 697914970150797403,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3540",
+                "display_name" : "Chase Crossley",
+                "id" : 383020271336030209,
+                "name" : "dakotac55"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:04:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 697914948202004660,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:04:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "i think so",
+        "id" : 697205759968149625,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:06:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "oh i totally forgot about those",
+        "id" : 697205750476570655,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:06:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "so we could use the screenshots we turned in for Im and just document process",
+        "id" : 697205661183770716,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:06:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "nice",
+        "id" : 697205421789937747,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:05:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "the connection to out project is optional",
+        "id" : 697205364512522360,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:05:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Yea it isnt as bad as I thought.",
+        "id" : 697205302617047061,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:04:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "lets just get it done rn",
+        "id" : 697205268165033995,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:04:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "oh easy, i can easily doc the paperwork",
+        "id" : 697205235927744702,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:04:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "group",
+        "id" : 697205172841218120,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:04:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "this is group based or individual work?",
+        "id" : 697205156714119298,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:04:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "we just have to 'document the steps'",
+        "id" : 697205129685893140,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:04:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "but we can use our code from soft con.",
+        "id" : 697205078305538149,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:04:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "nope",
+        "id" : 697204968163246130,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:03:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "so this is no longer optional??",
+        "id" : 697204934646693889,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:03:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "considering",
+        "id" : 697204901222285322,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:03:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "^",
+        "id" : 697204901150720121,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:03:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "You commiting sudoku?",
+        "id" : 697204876131958808,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:03:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "atleast we can use our code",
+        "id" : 697204850949357569,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:03:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 697204847467954176,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:03:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/sudoku-gif-9429499",
+        "id" : 697204806003064953,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:02:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "adding more work to the pile of work",
+        "id" : 697204772519936070,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:02:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "me neither",
+        "id" : 697204690831540246,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:02:31",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "yea i wasnt going to say anything",
+        "id" : 697204558983725086,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:02:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Yeah that backfired",
+        "id" : 697204527186706565,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:01:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 697204522354999376,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:01:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "This is not what I was hoping for",
+        "id" : 697204480445382728,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 22:01:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "ayye!!! Nice job Alex lol",
+        "id" : 697192354263728139,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 21:13:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 697187033629589544,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 20:52:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "I muted my mike and just moved my lips",
+        "id" : 695391905751760928,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:59:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 695391862969729116,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:58:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "exactly",
+        "id" : 695391841700544614,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:58:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3527",
+            "display_name" : "Abanoub",
+            "id" : 167338910324621313,
+            "name" : "Bondou"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "yes I was",
+        "id" : 695391823828615278,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:58:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3527",
+            "display_name" : "Abanoub",
+            "id" : 167338910324621313,
+            "name" : "Bondou"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "didn't hear you when we were reciting",
+        "id" : 695391810062909550,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:58:47",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "are you talking about the reciting?",
+        "id" : 695391802559168652,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:58:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "2",
+        "id" : 695391723907448942,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:58:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3527",
+            "display_name" : "Abanoub",
+            "id" : 167338910324621313,
+            "name" : "Bondou"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!173705394944737280> what group were you in?",
+        "id" : 695379907810951178,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "9852",
+                "display_name" : "Alex",
+                "id" : 173705394944737280,
+                "name" : "YouBoo"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:11:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 695379567820406845,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:10:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Here we go!!",
+        "id" : 695379563416387614,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:10:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 695378549485338764,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:06:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3527",
+            "display_name" : "Abanoub",
+            "id" : 167338910324621313,
+            "name" : "Bondou"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Does saying hi here count?",
+        "id" : 695378506330144809,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:05:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Be social dangit",
+        "id" : 695378501682987089,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:05:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!167338910324621313> gosh Abanoub say hi to everyone",
+        "id" : 695378346670030860,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3527",
+                "display_name" : "Abanoub",
+                "id" : 167338910324621313,
+                "name" : "Bondou"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:05:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "yes",
+        "id" : 695377634908962906,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:02:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "lol <@!383020271336030209> is freezing and depressed",
+        "id" : 695377604475355227,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3540",
+                "display_name" : "Chase Crossley",
+                "id" : 383020271336030209,
+                "name" : "dakotac55"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 21:02:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Gotcha",
+        "id" : 695048111575531632,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 23:13:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "I think she was cancelling the calendar WebEx meeting. probably because it was made with the wrong link",
+        "id" : 695045629377773599,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 23:03:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Did y'all get her email? Did she cancel class for tomorrow?",
+        "id" : 695045220240326677,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 23:01:33",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "i think she may have to make one",
+        "id" : 694666285228752986,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:55:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "She have a discord ? <:uhmm:663236794044907571>",
+        "id" : 694665709707460608,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:53:31",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "But microsoft is also built on java \ud83d\ude42",
+        "id" : 694660786563579954,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:33:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3527",
+            "display_name" : "Abanoub",
+            "id" : 167338910324621313,
+            "name" : "Bondou"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "what worries me most is that she agreed with you",
+        "id" : 694660687640657981,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:33:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "sorry fellas",
+        "id" : 694660687040872469,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:33:33",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "i big time oofed lol",
+        "id" : 694660673204125756,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:33:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "unsend",
+        "id" : 694660525690323014,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:32:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "JRE",
+        "id" : 694660508485156915,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:32:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 694660487064846426,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:32:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "not interpretor",
+        "id" : 694660469507752012,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:32:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "it seems to have cleared",
+        "id" : 694660070780305430,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:31:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "yeah its all choppy",
+        "id" : 694659998026039316,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:30:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "yea same",
+        "id" : 694659974978338836,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:30:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "she sounds like a robot for me",
+        "id" : 694659944116518973,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:30:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "oof",
+        "id" : 694659477919760384,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:28:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "yes",
+        "id" : 694659453148069978,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:28:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Did she just say facebook?",
+        "id" : 694659423192481853,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:28:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3527",
+            "display_name" : "Abanoub",
+            "id" : 167338910324621313,
+            "name" : "Bondou"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "gross",
+        "id" : 694658949596577882,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:26:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3527",
+            "display_name" : "Abanoub",
+            "id" : 167338910324621313,
+            "name" : "Bondou"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "input lag",
+        "id" : 694658935717888163,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:26:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!121018207958990849> \ud83d\ude18",
+        "id" : 694658934040166431,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "1724",
+                "display_name" : "Austen",
+                "id" : 121018207958990849,
+                "name" : "TheImmortalVoid"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:26:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!383020271336030209> i love you",
+        "id" : 694658881229553764,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3540",
+                "display_name" : "Chase Crossley",
+                "id" : 383020271336030209,
+                "name" : "dakotac55"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:26:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/jeff-bergman-voice-actor-actor-train-wreck-crash-gif-15261762",
+        "id" : 694658833435459645,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:26:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "BRUH",
+        "id" : 694658743375495238,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:25:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "oar",
+        "id" : 694658718779965510,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:25:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "thanks",
+        "id" : 694654866303221810,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:10:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!493973109175484435>",
+        "id" : 694653718037004358,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "8027",
+                "display_name" : "Rigo",
+                "id" : 493973109175484435,
+                "name" : "Rigo_Gonz"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:05:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "@everyone",
+        "id" : 694652667154137095,
+        "mention_everyone" : true,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:01:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Use this link https://calbaptist.webex.com/join/kpeters",
+        "id" : 694652628453556386,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : true,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:01:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Han's lecture notes from last year as well",
+        "id" : 687021047572070434,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-10 19:36:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Last Year's Homework Assignments If anyone wants to take a stab at them",
+        "id" : 687020821986017280,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-10 19:35:28",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "Oar(s)",
+        "id" : 685591817630384197,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-06 20:57:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615727679131484168,
+            "name" : "egr326-soft_design_and_arch"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 680184204843286625,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-20 22:49:11",
+        "tts" : false
+    }
+]

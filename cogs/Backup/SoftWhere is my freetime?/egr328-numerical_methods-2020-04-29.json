@@ -1,0 +1,156 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615727970673491968,
+            "name" : "egr328-numerical_methods"
+        },
+        "channel_mentions" : [],
+        "content" : "or well at least that\u2019s what i did lol",
+        "id" : 680040718730919983,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-20 13:19:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615727970673491968,
+            "name" : "egr328-numerical_methods"
+        },
+        "channel_mentions" : [],
+        "content" : "sorry for late reply but that\u2019s exactly what u do",
+        "id" : 680040666684063744,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-20 13:18:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727970673491968,
+            "name" : "egr328-numerical_methods"
+        },
+        "channel_mentions" : [],
+        "content" : "having trouble with Lab 4\nso after we run the two codes for the methods shown in the example\ndo we just replace the A, b, and x values with the values from Part 1 and  Part 2 in the document he wants us to answer?",
+        "id" : 679944099016867850,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-20 06:55:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615727970673491968,
+            "name" : "egr328-numerical_methods"
+        },
+        "channel_mentions" : [],
+        "content" : "language!",
+        "id" : 678042243658940450,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-15 00:57:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615727970673491968,
+            "name" : "egr328-numerical_methods"
+        },
+        "channel_mentions" : [],
+        "content" : "\"FUN EQUALS!!!! WHAT THE HELL IS FUN?\" -Alex",
+        "id" : 678005432211603459,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-14 22:31:31",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615727970673491968,
+            "name" : "egr328-numerical_methods"
+        },
+        "channel_mentions" : [],
+        "content" : "A link to the book for anyone who needed it",
+        "id" : 666764480369131523,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-14 22:04:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615727970673491968,
+            "name" : "egr328-numerical_methods"
+        },
+        "channel_mentions" : [],
+        "content" : "https://cdn.prexams.com/6008/Uri%20M.%20Ascher%20and%20Chen%20Greif%20-A%20First%20Course%20in%20Numerical%20Computing(BookZZ.org).pdf",
+        "id" : 666764402820775939,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-14 22:03:41",
+        "tts" : false
+    }
+]

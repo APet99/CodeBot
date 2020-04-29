@@ -1,0 +1,112 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1304",
+            "display_name" : "Justus",
+            "id" : 161275360640499712,
+            "name" : "Neincat"
+        },
+        "channel" : {
+            "id" : 664607098507755542,
+            "name" : "csc312-algorithms"
+        },
+        "channel_mentions" : [],
+        "content" : "thank you!",
+        "id" : 704425497551175781,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 20:15:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5605",
+            "display_name" : "Kaleb",
+            "id" : 194437393913348096,
+            "name" : "Kacogg5"
+        },
+        "channel" : {
+            "id" : 664607098507755542,
+            "name" : "csc312-algorithms"
+        },
+        "channel_mentions" : [],
+        "content" : "strongandcourageous",
+        "id" : 704425446653165639,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 20:15:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1304",
+            "display_name" : "Justus",
+            "id" : 161275360640499712,
+            "name" : "Neincat"
+        },
+        "channel" : {
+            "id" : 664607098507755542,
+            "name" : "csc312-algorithms"
+        },
+        "channel_mentions" : [],
+        "content" : "@everyone sorry to ping everyone here, but can someone tell me the password to take the final? i managed to miss it",
+        "id" : 704425070726217781,
+        "mention_everyone" : true,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 20:13:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 664607098507755542,
+            "name" : "csc312-algorithms"
+        },
+        "channel_mentions" : [],
+        "content" : "Tbh I am completely lost, I do not fully remember us going over how to find Recurrences modeling any theorems, I remember going over Logical operations and trying to prove statements just as we did in discrete but not what we were assigned through QC3.",
+        "id" : 673950912380796947,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-03 18:00:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 664607098507755542,
+            "name" : "csc312-algorithms"
+        },
+        "channel_mentions" : [],
+        "content" : "Anyone figure out QC3?",
+        "id" : 673950217212657666,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-03 17:57:33",
+        "tts" : false
+    }
+]

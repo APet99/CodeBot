@@ -1,0 +1,1146 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**CSC313-**Graphics",
+        "id" : 673046845718790155,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-01 06:07:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR400-**Special Topics in Engineering Full Stack Development in Python",
+        "id" : 667223963138654249,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-16 04:29:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**CSC311**- Compiler design and languages",
+        "id" : 618991843215933445,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-05 02:12:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**CSC312**- Algorithms",
+        "id" : 615798681039274024,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 06:44:06",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "```CSS\n\nCSC Courses:\n\n```",
+        "id" : 615798490345504774,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 06:43:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR427**- Software Project Management",
+        "id" : 615788422648561684,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 06:03:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR425**- Real-Time and Embd Development",
+        "id" : 615788313445662723,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 06:02:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR424**- Web App Development",
+        "id" : 615788113465311254,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 06:02:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR423**- Mobile App Development",
+        "id" : 615788023941955605,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 06:01:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR406**- Senior Portfolio",
+        "id" : 615787887153381404,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 06:01:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR405**- Internship Report and Presentation",
+        "id" : 615787794102616096,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 06:00:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR404**- Worldview Reflection II",
+        "id" : 615787696727785482,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 06:00:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR402**- Capstone Design II",
+        "id" : 615787604763213837,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 06:00:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR401**- Capstone Design I",
+        "id" : 615787552565362701,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:59:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "```CSS\n\nEGR 400-level Courses:\n\n```",
+        "id" : 615787366417694750,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:59:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR329**- Computer Architecture",
+        "id" : 615787276533891073,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:58:47",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR328**- Numerical Methods for Computing",
+        "id" : 615787134544117760,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:58:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR327**- Software Construction",
+        "id" : 615787037626335233,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:57:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR326**- Software Design and Architecture",
+        "id" : 615786969867223052,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:57:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR325**- Database Systems",
+        "id" : 615786875281735692,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:57:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR324**- Engineering Economics",
+        "id" : 615786808105631744,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:56:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR323**- Software Req Analysis and Testing",
+        "id" : 615786732834652171,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:56:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR306**- Internship Prep",
+        "id" : 615786552202756107,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:55:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR305**- Engineering Statistics",
+        "id" : 615786477334298648,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:55:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR304**- Leadership Cohort",
+        "id" : 615786396099149825,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:55:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EG302**- Engineering Design",
+        "id" : 615786327685857281,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:55:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "```CSS\n\nEGR 300-level Courses:\n\n```",
+        "id" : 615786213709840395,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:54:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR226**- OS/Networking",
+        "id" : 615785095881818112,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:50:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR225**- Discrete Structures",
+        "id" : 615785039061581825,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:49:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR223**- Software Engineering HCI",
+        "id" : 615784965937954826,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:49:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR222**- Software Engineering",
+        "id" : 615784865857536018,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:49:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR221**- Data Structures",
+        "id" : 615784812803915776,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:49:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR202**- Worldview Reflection",
+        "id" : 615784738426191873,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:48:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "```CSS\n\nEGR 200-level Courses:\n\n```",
+        "id" : 615784628061470741,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:48:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR192**- Engineering Seminar",
+        "id" : 615782283085086731,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:38:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR182**- Intro Math for Engineering Application",
+        "id" : 615782216328282122,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:38:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR122**- Visualization Languages I",
+        "id" : 615782096547348480,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:38:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR121**- Intro to Computer Program C++",
+        "id" : 615782019607298058,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:37:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR103**- Engineering Service I",
+        "id" : 615781902523170817,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:37:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR102**- Intro to Engineering Design",
+        "id" : 615781780943011861,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:36:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**EGR101**- Engineering from Christian Worldview",
+        "id" : 615781664135708736,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:36:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "```CSS\n\nEGR 100-level Courses:\n\n```",
+        "id" : 615781529792282624,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 05:35:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**PHY203**- Physics for Engineers II",
+        "id" : 615736047074279451,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 02:35:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**PHY201**- Physics for Engineers I",
+        "id" : 615735917298188310,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 02:34:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "```CSS\n\nScience Courses:\n\n```",
+        "id" : 615735729326260266,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 02:33:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**ENG123**- Intermediate Composition",
+        "id" : 615735663953969184,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 02:33:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**ENG113**- English Composition",
+        "id" : 615735484643016716,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 02:32:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "```CSS\n\nEnglish Courses:\n\n```",
+        "id" : 615735205663211537,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 02:31:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**MAT255**- Analytical Geometry & Calculus 2",
+        "id" : 615733601786527751,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 02:25:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "**MAT245**- Analytical Geometry & Calculus 1",
+        "id" : 615731940766777374,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 02:18:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "```CSS\n\nMath Courses:\n\n```",
+        "id" : 615731481100419073,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 02:17:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615730298914865183,
+            "name" : "classes"
+        },
+        "channel_mentions" : [],
+        "content" : "Welcome to **SoftWhere is my free time?**.  To select the courses you wish to chat in, press the  \ud83d\udcaf reaction for each class. Then access will be granted to each channel you select.  Leave a message in <#615796115907936272> if you do not see your class, or if there is an issue.",
+        "id" : 615731197577920523,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-27 02:15:57",
+        "tts" : false
+    }
+]

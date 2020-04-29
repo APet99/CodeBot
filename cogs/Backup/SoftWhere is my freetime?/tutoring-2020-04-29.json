@@ -1,0 +1,961 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720234946396170> <@&615721329886494730>  Ill be helping <@!345744180917829644> till 4:00pm",
+        "id" : 703343584736444468,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3325",
+                "display_name" : "Nixk Mark",
+                "id" : 345744180917829644,
+                "name" : "CaptainWhymer"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615721329886494730,
+                "name" : "CSC312"
+            },
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            }
+        ],
+        "timestamp" : "2020-04-24 20:36:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!345744180917829644> awesome, thanks!",
+        "id" : 703305314769829976,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3325",
+                "display_name" : "Nixk Mark",
+                "id" : 345744180917829644,
+                "name" : "CaptainWhymer"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:04:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3325",
+            "display_name" : "Nixk Mark",
+            "id" : 345744180917829644,
+            "name" : "CaptainWhymer"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720234946396170> <@&615721329886494730> I will be holding a tutoring session from 2:30 - whenever, depending on whether or not people need help.",
+        "id" : 703305073194959038,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            },
+            {
+                "id" : 615721329886494730,
+                "name" : "CSC312"
+            }
+        ],
+        "timestamp" : "2020-04-24 18:03:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Thanks you so much!",
+        "id" : 700055862009528400,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-15 18:52:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "rob gang",
+        "id" : 700055766475866213,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-15 18:51:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Thank you!!",
+        "id" : 700055482731069531,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-15 18:50:33",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "robs together",
+        "id" : 700055474980257873,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-15 18:50:31",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Sweet! Thanks.",
+        "id" : 700055319442620566,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-15 18:49:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "thx!",
+        "id" : 700055296344588369,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-15 18:49:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "coool",
+        "id" : 700055280980983859,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-15 18:49:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "yee",
+        "id" : 700055263578947716,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-15 18:49:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "?",
+        "id" : 700055218183864512,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-15 18:49:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "tonight",
+        "id" : 700055202476064868,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-15 18:49:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "hey <@&615720234946396170> <@!383020271336030209> <@!345744180917829644> I'll be hosting a \"tutoring\" session at 7:00 at https://8x8.vc/hatplusplus/robbie.sollie so we can all figure out SuffixTrie, we won't be working on implementation but we'll figure out better explanations for the spec as well as some tests that y'all can implement in JUnit",
+        "id" : 700055114420977795,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3540",
+                "display_name" : "Chase Crossley",
+                "id" : 383020271336030209,
+                "name" : "dakotac55"
+            },
+            {
+                "bot" : false,
+                "discriminator" : "3325",
+                "display_name" : "Nixk Mark",
+                "id" : 345744180917829644,
+                "name" : "CaptainWhymer"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            }
+        ],
+        "timestamp" : "2020-04-15 18:49:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3325",
+            "display_name" : "Nixk Mark",
+            "id" : 345744180917829644,
+            "name" : "CaptainWhymer"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Weird.",
+        "id" : 699379831778836481,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-13 22:05:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615721329886494730> ^",
+        "id" : 699367929375883355,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615721329886494730,
+                "name" : "CSC312"
+            }
+        ],
+        "timestamp" : "2020-04-13 21:18:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3325",
+            "display_name" : "Nixk Mark",
+            "id" : 345744180917829644,
+            "name" : "CaptainWhymer"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720234946396170> <@&615798781216030732> I will be holding a tutoring session from 3:30-5:00 today",
+        "id" : 699365004822183997,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            }
+        ],
+        "timestamp" : "2020-04-13 21:06:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720234946396170> <@&615721329886494730> <@&615798781216030732> ^",
+        "id" : 699357491536068608,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615721329886494730,
+                "name" : "CSC312"
+            },
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            }
+        ],
+        "timestamp" : "2020-04-13 20:36:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3325",
+            "display_name" : "Nixk Mark",
+            "id" : 345744180917829644,
+            "name" : "CaptainWhymer"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "I can hold one today if enough people need it. Upvote this if you would use tutoring today",
+        "id" : 699353454560280697,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-13 20:20:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Is there going to be tutoring today for Data Structures?",
+        "id" : 699339881209528403,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-13 19:27:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7746",
+            "display_name" : "Mike Litoris",
+            "id" : 277311886276689920,
+            "name" : "Mike Litoris"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Any tutoring times tomorrow for CSC312?",
+        "id" : 699044049767759964,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-12 23:51:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7645",
+            "display_name" : "Steven Phun",
+            "id" : 259940468840857601,
+            "name" : "ChowPhun"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "NOOOOOOOOOOO some of us freshmen still have autocad/excel during that time.",
+        "id" : 697881300186693813,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 18:51:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720234946396170> <@&615721329886494730> I will be holding a Tutoring session at 2:00pm - 3:30pm today",
+        "id" : 697878074611728414,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            },
+            {
+                "id" : 615721329886494730,
+                "name" : "CSC312"
+            }
+        ],
+        "timestamp" : "2020-04-09 18:38:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720234946396170> <@&615721329886494730> Im starting the session soon",
+        "id" : 697210022148702329,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615721329886494730,
+                "name" : "CSC312"
+            },
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            }
+        ],
+        "timestamp" : "2020-04-07 22:23:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720234946396170> <@&615721329886494730> I will be holding a Tutoring session at 3:30pm - 5:00pm today",
+        "id" : 697136415292522637,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615721329886494730,
+                "name" : "CSC312"
+            },
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            }
+        ],
+        "timestamp" : "2020-04-07 17:31:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5605",
+            "display_name" : "Kaleb",
+            "id" : 194437393913348096,
+            "name" : "Kacogg5"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "My partner and I are having trouble with Project 3. Can't vc for the next hour or so bc I'm \"tutoring\" C++, but help would be appreciated.",
+        "id" : 696885798489948236,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 00:55:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4045",
+            "display_name" : "Nick DiSanto",
+            "id" : 688299063732600881,
+            "name" : "Nick DiSanto"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Any tutors available for 222?",
+        "id" : 696833658962837575,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 21:28:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Yeah, I definitely need help with HashTrieMap. It's got me mega confused.",
+        "id" : 696830824057667616,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 21:16:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Yeah i need some help on part 2 for Homework #7 if anyone\u2019s available for tutoring today.",
+        "id" : 696817818175275088,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 20:25:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Any tutors available for 227 right now?",
+        "id" : 696764921647726604,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 16:55:02",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3325",
+            "display_name" : "Nixk Mark",
+            "id" : 345744180917829644,
+            "name" : "CaptainWhymer"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720234946396170> <@&615721329886494730> I will be holding a tutoring session from 2:30 - 4:30 today",
+        "id" : 695710009723453560,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615721329886494730,
+                "name" : "CSC312"
+            },
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            }
+        ],
+        "timestamp" : "2020-04-03 19:03:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720234946396170> <@&615721329886494730> I will be holding a Tutoring session at 3:30pm - 5:00pm today",
+        "id" : 695363912333263032,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615721329886494730,
+                "name" : "CSC312"
+            },
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            }
+        ],
+        "timestamp" : "2020-04-02 20:07:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&694663610382811247> Some rooms have been setup for Students to join per class for tutoring. Use the Class Voice Channel as a waiting room essentially and drag students into the Private Room when you are ready for them. They cannot join the private room by themselves",
+        "id" : 694710912971702333,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 694663610382811247,
+                "name" : "Tutor"
+            }
+        ],
+        "timestamp" : "2020-04-01 00:53:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3325",
+            "display_name" : "Nixk Mark",
+            "id" : 345744180917829644,
+            "name" : "CaptainWhymer"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Permissions?",
+        "id" : 694708719597912164,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 00:44:25",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "ok thanks",
+        "id" : 694677539049832498,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 22:40:31",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "you have to add the class first. go to classes and click the 100 emoji under egr221",
+        "id" : 694677483722768464,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 22:40:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "hey it's not letting me join Tutoring-EGR227. It's locked for some reason",
+        "id" : 694677317665947648,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 22:39:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7328",
+            "display_name" : "Cole",
+            "id" : 106213544457973760,
+            "name" : "Whip"
+        },
+        "channel" : {
+            "id" : 694265865201385542,
+            "name" : "tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "Okay i made it",
+        "id" : 694662420878327888,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:40:27",
+        "tts" : false
+    }
+]

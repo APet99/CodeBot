@@ -1,0 +1,156 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727336548990996,
+            "name" : "egr323-softw_req_analysis"
+        },
+        "channel_mentions" : [],
+        "content" : "```\nIn app there should be something to confirm the work. Once the supervisor assigns, it shows in the inspectors queue. App function to confirm.\n\nConfirmation to supervisor AND System of Records (SAP) that a work order was accepted. (scheduled or in progress)\n\n\nVerification: JAMF SAE active directory (anyone given access will show up on a directory and will include a login ID and Password). JAMF in already in service\n\nField Techs should be signed in to perform an inspection. Preferred once login to network, the app will also be accessible. (only have to sing in on a single app).\n\n\nErrors in data should be captured by ____ notification in a SEPARATE tool. Provide this in the future. Excluded from scope.\n\n\n\n```",
+        "id" : 682764020117405731,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-28 01:40:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727336548990996,
+            "name" : "egr323-softw_req_analysis"
+        },
+        "channel_mentions" : [],
+        "content" : "https://www.youtube.com/watch?v=m46Z0-HXySo",
+        "id" : 677684606069243914,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-14 01:16:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615727336548990996,
+            "name" : "egr323-softw_req_analysis"
+        },
+        "channel_mentions" : [],
+        "content" : "https://www.youtube.com/watch?v=5dZ_lvDgevk",
+        "id" : 677683776968589312,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-14 01:13:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615727336548990996,
+            "name" : "egr323-softw_req_analysis"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "id" : 672684059243184128,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-31 06:06:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615727336548990996,
+            "name" : "egr323-softw_req_analysis"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 672673008204120103,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-31 05:22:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615727336548990996,
+            "name" : "egr323-softw_req_analysis"
+        },
+        "channel_mentions" : [],
+        "content" : "My grade looks like freaking binary",
+        "id" : 672672933797298176,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-31 05:22:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615727336548990996,
+            "name" : "egr323-softw_req_analysis"
+        },
+        "channel_mentions" : [],
+        "content" : "Ummmmm what is that?",
+        "id" : 672672870727548950,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-31 05:21:50",
+        "tts" : false
+    }
+]

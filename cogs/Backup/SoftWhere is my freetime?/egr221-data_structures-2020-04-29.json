@@ -1,0 +1,5974 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Ok cool",
+        "id" : 704561215912935504,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 05:14:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "nope",
+        "id" : 704561196774326312,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 05:14:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "We don't have a meeting tomorrow, right?",
+        "id" : 704561157842665532,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 05:14:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1212",
+            "display_name" : "Hermes",
+            "id" : 565365053981720622,
+            "name" : "hermes222"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Yes",
+        "id" : 702590996692729876,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 18:45:47",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Did anyone get the heap sort question in checkup 9 correct?",
+        "id" : 702542568147124365,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 15:33:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I think the actual video starts a few minutes into it",
+        "id" : 702387034622263307,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 05:15:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Yeah. i'll send any more if I find them. I'm looking for resources rn",
+        "id" : 702386948857266236,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 05:14:58",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "so I should prolly check it out",
+        "id" : 702386921300557834,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 05:14:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I actually need that too",
+        "id" : 702386892842205185,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 05:14:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "ok thank you a lot",
+        "id" : 702386842246578196,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 05:14:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "But he doesn't go into that much",
+        "id" : 702386777855492157,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 05:14:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "It's really good if you don't understand it at all. Like you don't know where it come from",
+        "id" : 702386709870018621,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 05:14:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I just watched this video",
+        "id" : 702386611035570268,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 05:13:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "https://www.youtube.com/watch?v=kS_gr2_-ws8",
+        "id" : 702386578680578108,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 05:13:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I've definitely done that before",
+        "id" : 702379148349538324,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 04:43:58",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "haha",
+        "id" : 702379047522402304,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 04:43:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 702379004593700945,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 04:43:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "whoops",
+        "id" : 702378966065086544,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 04:43:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "You're talking in the data structures channel",
+        "id" : 702378931692503090,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 04:43:06",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "i put its current is already 0 because v1 is 0",
+        "id" : 702378844363161650,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 04:42:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "i just wrote something bad",
+        "id" : 702378726217875498,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 04:42:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I wish I did. I'm trying to figure them out",
+        "id" : 702377198878851104,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 04:36:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Not really",
+        "id" : 702359626137469000,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 03:26:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "do any of yall have tips in how to find time/space complexities?",
+        "id" : 702359562539499620,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 03:26:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "S\u2019all good",
+        "id" : 701985195988877343,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 02:38:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Yea, sorry",
+        "id" : 701980754602885140,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 02:20:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "lol ok. I guess I'll do that.",
+        "id" : 701957028364419072,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 00:46:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I think there's stuff you can look up to help you with that",
+        "id" : 701951021198475334,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 00:22:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Have any of you guys answered question #3 in the write up part? It's the one about word search and boggle. I'm confused on how to answer this one.",
+        "id" : 701919109381619782,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-20 22:15:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Lol yeah \ud83d\ude02",
+        "id" : 699679760653090849,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 17:57:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Haha",
+        "id" : 699677921807433748,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 17:50:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "We should tell her after class",
+        "id" : 699675497671688274,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 17:40:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "haha Ikr",
+        "id" : 699675476456636506,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 17:40:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "0786",
+            "display_name" : "Ethan V.",
+            "id" : 247255105202683906,
+            "name" : "eton1102"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "You werent kidding",
+        "id" : 699675416717164565,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 17:40:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Prepare your ears",
+        "id" : 699674381378650214,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 17:36:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Every now and then, Dr. Han's microphone will become deep-fried",
+        "id" : 699674336138887199,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 17:36:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "0786",
+            "display_name" : "Ethan V.",
+            "id" : 247255105202683906,
+            "name" : "eton1102"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Alright sounds good",
+        "id" : 699672915695894602,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 17:30:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Yea, she has to add us manually",
+        "id" : 699672862482628649,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 17:30:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "yup",
+        "id" : 699672832006684793,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 17:30:02",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "0786",
+            "display_name" : "Ethan V.",
+            "id" : 247255105202683906,
+            "name" : "eton1102"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Is anyone else getting that Han is in another meeting?",
+        "id" : 699672775715192852,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 17:29:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7645",
+            "display_name" : "Steven Phun",
+            "id" : 259940468840857601,
+            "name" : "ChowPhun"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!675101322294329344> there's a variable called \"size\" just like \"root\" you won't be able to see in the hashtriemap class. \n\nincrement or decrement every time you add or remove.",
+        "id" : 698812342762209342,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "7915",
+                "display_name" : "Andrew Cantrel",
+                "id" : 675101322294329344,
+                "name" : "andyrooc23"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-12 08:30:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1322",
+            "display_name" : "Tomas Perez",
+            "id" : 196092311216717824,
+            "name" : "tomas13perez"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "anyone able help out on hashTrieMap?",
+        "id" : 698337763300212796,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-11 01:04:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1322",
+            "display_name" : "Tomas Perez",
+            "id" : 196092311216717824,
+            "name" : "tomas13perez"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "thats a negative ghost rider",
+        "id" : 698297758112677918,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-10 22:25:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "specifically in regards to the size of the map",
+        "id" : 698296580540989530,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-10 22:21:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "has anyone gotten the tests to pass for hashTrieMap",
+        "id" : 698296547821224045,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-10 22:21:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "thanks",
+        "id" : 697922360610783344,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:34:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "that helps yeah",
+        "id" : 697922357762981998,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:34:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7645",
+            "display_name" : "Steven Phun",
+            "id" : 259940468840857601,
+            "name" : "ChowPhun"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "is that what you're asking <@!675101322294329344>",
+        "id" : 697922243346301068,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "7915",
+                "display_name" : "Andrew Cantrel",
+                "id" : 675101322294329344,
+                "name" : "andyrooc23"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:33:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7645",
+            "display_name" : "Steven Phun",
+            "id" : 259940468840857601,
+            "name" : "ChowPhun"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "when you call next() it should remove index 0 because that's the min value.",
+        "id" : 697922188665421988,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:33:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "it shouldnt store priority value anywhere...?",
+        "id" : 697921926877675622,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:32:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7645",
+            "display_name" : "Steven Phun",
+            "id" : 259940468840857601,
+            "name" : "ChowPhun"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "this way it's O(1) instead of of O(n)",
+        "id" : 697921883668217946,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:32:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "but you just figure out which one goes where based off of compareTo()",
+        "id" : 697921883051655168,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:32:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "yes",
+        "id" : 697921857059291199,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:32:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7645",
+            "display_name" : "Steven Phun",
+            "id" : 259940468840857601,
+            "name" : "ChowPhun"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "it should just be an array and you have the parent and child formula to find its correct index.",
+        "id" : 697921806941814855,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:32:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I dont think so",
+        "id" : 697921726201200690,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:31:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7645",
+            "display_name" : "Steven Phun",
+            "id" : 259940468840857601,
+            "name" : "ChowPhun"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "no",
+        "id" : 697921711831777450,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:31:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "should minFourHeap have a private static node class within it to help keep track of stuff",
+        "id" : 697921596727492608,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 21:31:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "It happened for me too",
+        "id" : 697863342714388570,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 17:39:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "It's my headphones, nevermind",
+        "id" : 697862983992475689,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 17:38:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Is Dr. Han's mic peaking super loud every now and then for anyone else?",
+        "id" : 697862034263638086,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 17:34:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "has anyone figured out the ChainingHashSet yet? I'm still lost.",
+        "id" : 697675308823740436,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 05:12:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "essentially...",
+        "id" : 697524015409004655,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-08 19:11:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "so basically copy over separatechaining and any time it says LinkedList.something, make a helper method",
+        "id" : 697523942876774480,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-08 19:11:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "like for linked lists you can call contains, but with your own list you need to loop through it and check if it contains (you can make a helper method to do that)",
+        "id" : 697523556724244570,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-08 19:09:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "You can't use the java Linked list so you make your own linked list and each node is the HashNode. So you basically can't call methods that are available for Linked lists",
+        "id" : 697523385466486804,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-08 19:08:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Does anyone know the difference between SeparateChainingHashSet and ChainingHashSet",
+        "id" : 697523024517267519,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-08 19:07:28",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 697136442014433352,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:31:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I had a mini heart attack rn thinking I didn\u2019t actually submit it Bc I did it yesterday",
+        "id" : 697136380815605803,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:31:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "The max number of nodes in a d heap",
+        "id" : 697136025394217112,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:29:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "which one is that?",
+        "id" : 697135931488206868,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:29:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I think I got the right answer",
+        "id" : 697135830254223459,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:28:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "zoom changed their policy so she has to accept us now. Idk if she has to do it one by one but you have to do that",
+        "id" : 697135481397182534,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:27:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "what did you guys get on number 3 for exercise 13?",
+        "id" : 697135452322267217,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:27:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "It sounds like people were trolling in 312",
+        "id" : 697135408529539093,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:27:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "she manually adds people to prevent trolling I think",
+        "id" : 697135352380653658,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:27:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "don't worry, she should add us in just a few minutes",
+        "id" : 697135323116994701,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:26:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "that's correct",
+        "id" : 697135248667967568,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:26:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "same",
+        "id" : 697135242158407780,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:26:33",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Mine just says \u201cthis host has another meeting in progress\u201d.",
+        "id" : 697135209677717614,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:26:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "han manually adds people",
+        "id" : 697135066832175105,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:25:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "this happened last time",
+        "id" : 697135029444280471,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:25:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Is anyone else having trouble connecting?",
+        "id" : 697134969964986420,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 17:25:28",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "We\u2019re you guys able to solve problem 3 for the exercise? For the max number of nodes, I\u2019m getting: 2^h-1 and for the min # of nodes, I\u2019m getting 2^(h-1). Not sure if that\u2019s right though.",
+        "id" : 696970588429746237,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 06:32:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Oh ok. Thanks man",
+        "id" : 696935940387766323,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 04:14:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "You could also use lecture 14.b. Look at how the heap uses the array to be constructed. That can help you too",
+        "id" : 696935833001000970,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 04:14:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "For Exercise 13, I\u2019m assuming we have to use that binary tree in the Weiss book in section 6.5 to answer the questions?",
+        "id" : 696935468876562482,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 04:12:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I didn\u2019t know how",
+        "id" : 696919461185191976,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 03:09:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "mmm. well, i guess i gotta go throu the whole video again",
+        "id" : 696903927236526090,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 02:07:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Oh, okay",
+        "id" : 696903277253623859,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 02:04:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "There is a code along for EX16 but that isn't due till thursday I believe",
+        "id" : 696903226251018270,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 02:04:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "What are you guys talking about?",
+        "id" : 696903064510136350,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 02:03:58",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "yeah",
+        "id" : 696902867822313505,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 02:03:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "did yall have probinghashset work after completing the video?",
+        "id" : 696902816924565564,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 02:02:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "No",
+        "id" : 696892880966385824,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 01:23:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Have any of you finished the ChainingHashSet exercise? I can\u2019t figure out how to implement the add method or contains method.",
+        "id" : 696883021755842691,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 00:44:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "np",
+        "id" : 696829858285748315,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 21:13:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "thanks",
+        "id" : 696829839105065091,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 21:13:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "i already figured it out i just wanted to make sure",
+        "id" : 696829806188167278,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 21:12:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "you can look them up, I believe",
+        "id" : 696829707416633374,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 21:12:28",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "That's what I did",
+        "id" : 696829672280948760,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 21:12:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "for exercise 13 are we just writing the equations for the d heaps?",
+        "id" : 696829610498981930,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 21:12:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Ok",
+        "id" : 696200364051005490,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 03:31:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "0786",
+            "display_name" : "Ethan V.",
+            "id" : 247255105202683906,
+            "name" : "eton1102"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Alright I figured out the fifo queue. Nathan worked on the cirular array so Im going to ask him if he tried that",
+        "id" : 696199254368059457,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 03:27:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "have an if condition to do what lauren mentioned",
+        "id" : 696191702104539176,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 02:57:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "this means that once you get to the max capacity, your head will go to index 0 of the array",
+        "id" : 696191203854647396,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 02:55:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "you may be forgetting that the index changes for the front and when you peek, you have to go back around to the front",
+        "id" : 696191050976460810,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 02:54:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!247255105202683906> did you keep track of the front and end of your circular array?",
+        "id" : 696190347382095903,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "0786",
+                "display_name" : "Ethan V.",
+                "id" : 247255105202683906,
+                "name" : "eton1102"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 02:51:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "My partner and I also have an extension, but I'm having some trouble with the update method for the CircularArrayFIFOQueue class. I was wondering how you guys implemented this method?",
+        "id" : 696189877250949140,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 02:50:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "0786",
+            "display_name" : "Ethan V.",
+            "id" : 247255105202683906,
+            "name" : "eton1102"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "For the listFIFO its a peek error. For the circular its an index out of bounds exception",
+        "id" : 696187621868699679,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 02:41:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "What error are you guys getting?",
+        "id" : 696185684175618071,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 02:33:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "0786",
+            "display_name" : "Ethan V.",
+            "id" : 247255105202683906,
+            "name" : "eton1102"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Test 4 for circular and test 3 for list FIFO",
+        "id" : 696185591133634630,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 02:32:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "which ones?",
+        "id" : 696185423742894171,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 02:32:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "0786",
+            "display_name" : "Ethan V.",
+            "id" : 247255105202683906,
+            "name" : "eton1102"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Hey so me and Nathan got an extra day but we cannot figure out the last tests for the FIFO structures. Any advice?",
+        "id" : 696183732700446790,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 02:25:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Nice!",
+        "id" : 695874206109270086,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 05:55:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Sweet! She got back to me and allowed an extension. \ud83d\ude42",
+        "id" : 695852727409967204,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 04:30:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I think we had two extensions no questions asked per person",
+        "id" : 695849721201295370,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 04:18:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "My partner and I are screwed \ud83d\ude26 so her computer had crashed before she could repush the code she has to GitHub, but for some reason she had lost all her code. I know there's probably no way to get the code back. I emailed Dr. Han and asked for an extension due to this, so hopefully she'll allow it.",
+        "id" : 695849421078003774,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 04:17:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83d\udc3c",
+        "id" : 695838656283279432,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:34:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "THANK YOU!!!",
+        "id" : 695838437135351938,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:33:31",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "lol jk I just figured that out",
+        "id" : 695838420391690310,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:33:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "ya",
+        "id" : 695838286291271781,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:32:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "also,do we just drag it to src?",
+        "id" : 695837965657571330,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:31:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "ok I got that too... thank you",
+        "id" : 695837929964044329,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:31:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "no problem",
+        "id" : 695837477520539721,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:29:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "thanks",
+        "id" : 695837459430244383,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:29:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "oh i got it too",
+        "id" : 695837450982916169,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:29:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "email didn't work",
+        "id" : 695837441197604927,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:29:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "when it opens as a browser page, I right clicked and selected save as and chose .txt as an option",
+        "id" : 695837330275303434,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:29:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "^",
+        "id" : 695837177367625819,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:28:31",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Hmmm",
+        "id" : 695837158455377961,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:28:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "how did you do it",
+        "id" : 695837157998198868,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:28:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "yeah",
+        "id" : 695837037927858236,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:27:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Is it too big?",
+        "id" : 695837024061751297,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:27:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "but discord won't let me upload it",
+        "id" : 695836977811161089,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:27:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "So i got the txt file",
+        "id" : 695836945648975992,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:27:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "as long as were all having the same error then its fine lol",
+        "id" : 695836693860974603,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:26:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I also tried it on my dad\u2019s pc and it didn\u2019t work",
+        "id" : 695836651691180097,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:26:25",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "same",
+        "id" : 695836593587617873,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:26:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Mine just opens up in a browser window. And doesn\u2019t let me download it at all",
+        "id" : 695836557747290154,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:26:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "thats werid okay",
+        "id" : 695836000164773889,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:23:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "same",
+        "id" : 695835982615805974,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:23:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Idk what to do",
+        "id" : 695835981026295839,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:23:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I couldn\u2019t even get it to download",
+        "id" : 695835965826138185,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:23:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Hey does anyone have the test.txt as an actual test file? For some reason it keeps wanting to download it as a pdf file for me",
+        "id" : 695835874092646420,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 03:23:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "one sec",
+        "id" : 695770981545017374,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 23:05:28",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Has anyone passed the last CircularArrayQueue test?",
+        "id" : 695767144411168798,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 22:50:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Please don\u2019t tell me I have to decode my stuff",
+        "id" : 695755917265731674,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 22:05:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I\u2019m in",
+        "id" : 695755867827601418,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 22:05:25",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "What?",
+        "id" : 695755856276488315,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 22:05:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3325",
+            "display_name" : "Nixk Mark",
+            "id" : 345744180917829644,
+            "name" : "CaptainWhymer"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "get back in, I have update",
+        "id" : 695755311075688558,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 22:03:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3325",
+            "display_name" : "Nixk Mark",
+            "id" : 345744180917829644,
+            "name" : "CaptainWhymer"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "lauren",
+        "id" : 695755284232274011,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 22:03:06",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "You take a screenshot of hers working",
+        "id" : 695755270420299856,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 22:03:02",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "No",
+        "id" : 695755105160527922,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 22:02:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 695746272920993942,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 21:27:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1212",
+            "display_name" : "Hermes",
+            "id" : 565365053981720622,
+            "name" : "hermes222"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Its optional if u feel u need extra testing",
+        "id" : 695745571738353717,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 21:24:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 695745538917793883,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 21:24:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Do we have to make some of our JUnit tests for CP1?",
+        "id" : 695745443040329739,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 21:23:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I don't think there is like a fixed time today",
+        "id" : 695671572744110122,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 16:30:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I just texted the tutors to see what time they are available for tutoring",
+        "id" : 695671525038227466,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 16:30:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "or is there any",
+        "id" : 695653701125275709,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 15:19:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "when is tutoring today for data structures?",
+        "id" : 695653658641301587,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-03 15:19:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "yes",
+        "id" : 695365499843903693,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 20:14:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "in",
+        "id" : 695324773147869208,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:32:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "In",
+        "id" : 695324517626675341,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:31:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I'm in",
+        "id" : 695324418754215986,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:30:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "how am I gonna show you guys my new background?",
+        "id" : 695324264789704814,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:30:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6077",
+            "display_name" : "Robby Moseley",
+            "id" : 171670270979866624,
+            "name" : "Robby Moseley"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "bruh",
+        "id" : 695324157230973018,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:29:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "> shes probably having a meeting with tutors or something, just wait lol\n<@!196092311216717824> probably",
+        "id" : 695324075001643079,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "1322",
+                "display_name" : "Tomas Perez",
+                "id" : 196092311216717824,
+                "name" : "tomas13perez"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:29:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1322",
+            "display_name" : "Tomas Perez",
+            "id" : 196092311216717824,
+            "name" : "tomas13perez"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "shes probably having a meeting with tutors or something, just wait lol",
+        "id" : 695323962938359899,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:29:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83d\ude22",
+        "id" : 695323887403270204,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:28:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Yeah mine says that too",
+        "id" : 695323883523407882,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:28:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "weird",
+        "id" : 695323874971222127,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:28:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1322",
+            "display_name" : "Tomas Perez",
+            "id" : 196092311216717824,
+            "name" : "tomas13perez"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "lol chris got kicked out of the class",
+        "id" : 695323867958345738,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:28:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I'm getting \"The host has another meeting in progress\"",
+        "id" : 695323848840839300,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:28:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7328",
+            "display_name" : "Cole",
+            "id" : 106213544457973760,
+            "name" : "Whip"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "mine just says she is in another meeting",
+        "id" : 695323826837520486,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:28:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "are you guys getting the \"This meeting is for authorized attendees only\"?",
+        "id" : 695323734692855838,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:28:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Yeah I can\u2019t connect to her meeting either",
+        "id" : 695323677948117032,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:28:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "doing it rn",
+        "id" : 695323589515411577,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:27:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Has anyone emailed her about this?",
+        "id" : 695323539850395729,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:27:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Hmmm",
+        "id" : 695323484728983644,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:27:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Yeah idk it\u2019s not working",
+        "id" : 695321802276208698,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:20:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "she is another meeting i think",
+        "id" : 695321758114381924,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:20:25",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Okay",
+        "id" : 695321689621266482,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:20:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I think it doesn\u2019t open till 10:20 <@!186190029389824000>",
+        "id" : 695321645405175829,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "5283",
+                "display_name" : "Isaiah Swanson",
+                "id" : 186190029389824000,
+                "name" : "LordZer0"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:19:58",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "S\u00ed",
+        "id" : 695321583291465797,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:19:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Is anyone else having trouble connecting to the meeting?",
+        "id" : 695321524520878112,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-02 17:19:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "avl tree builder if any of yall need to visualze it",
+        "id" : 694989107348242464,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 19:18:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "https://www.cs.usfca.edu/~galles/visualization/AVLtree.html",
+        "id" : 694989031003521065,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 19:18:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "yippie",
+        "id" : 694767677700571187,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 04:38:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Yup. Good thing only 3 are due Friday",
+        "id" : 694765463556849724,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 04:29:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "crap thats a lot",
+        "id" : 694765395588022383,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 04:29:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "wow",
+        "id" : 694765356710887464,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 04:29:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Yeah. All the things that say not yet implemented",
+        "id" : 694765259239456819,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 04:29:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "For HW7, are we implementing the entire three classes under worklists?",
+        "id" : 694762217396240476,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 04:17:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "will do",
+        "id" : 694704091858731018,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 00:26:02",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Send this to people that want to join",
+        "id" : 694703675519664248,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 00:24:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "https://discord.gg/BFfKG3R",
+        "id" : 694703638953721946,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 00:24:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "pop in the tutoring channel",
+        "id" : 694687140256153681,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 23:18:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!383020271336030209> I'm here",
+        "id" : 694687054789083196,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3540",
+                "display_name" : "Chase Crossley",
+                "id" : 383020271336030209,
+                "name" : "dakotac55"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 23:18:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Sounds good",
+        "id" : 694677325043990568,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 22:39:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I'll be there in a bit",
+        "id" : 694676855869145178,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 22:37:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "its a voice channel",
+        "id" : 694676734112432220,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 22:37:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Go ahead and join the Tutoring for the right class and we should be chillin",
+        "id" : 694676692731691029,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 22:37:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7328",
+            "display_name" : "Cole",
+            "id" : 106213544457973760,
+            "name" : "Whip"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "ya i need help",
+        "id" : 694676652021514271,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 22:37:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "okay",
+        "id" : 694676622086766684,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 22:36:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720234946396170> we are going to do stuff on this server to keep everything centralized",
+        "id" : 694676542944706642,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            }
+        ],
+        "timestamp" : "2020-03-31 22:36:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "> If I'm correct on that?\n<@!563619004380610560> \nyes",
+        "id" : 694664520806957087,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "7381",
+                "display_name" : "Lauren Nelson",
+                "id" : 563619004380610560,
+                "name" : "LNels"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:48:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "He's in class",
+        "id" : 694664192854065233,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:47:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!383020271336030209>",
+        "id" : 694664111853666315,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3540",
+                "display_name" : "Chase Crossley",
+                "id" : 383020271336030209,
+                "name" : "dakotac55"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:47:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "If I'm correct on that?",
+        "id" : 694662793634250813,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:41:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "and I think you also have to create an account",
+        "id" : 694662759882948768,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:41:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "thanks <@!671975752249507841>",
+        "id" : 694662725489655838,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "9527",
+                "display_name" : "Reuella",
+                "id" : 671975752249507841,
+                "name" : "Meh Panda"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:41:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I just installed it. I had to give it a ton of permissions..",
+        "id" : 694662705784684635,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:41:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7328",
+            "display_name" : "Cole",
+            "id" : 106213544457973760,
+            "name" : "Whip"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "ugh fine",
+        "id" : 694662703976808559,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:41:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Im having a session at like 3:30",
+        "id" : 694662647940907069,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:41:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7328",
+            "display_name" : "Cole",
+            "id" : 106213544457973760,
+            "name" : "Whip"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "And?",
+        "id" : 694662639309160518,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:41:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Well stop it",
+        "id" : 694662611563970640,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:41:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Im in class atm",
+        "id" : 694662572464537620,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:41:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 694662539010900079,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:40:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7328",
+            "display_name" : "Cole",
+            "id" : 106213544457973760,
+            "name" : "Whip"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "im in tutoring",
+        "id" : 694662522925613077,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:40:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 694662317308379208,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:40:02",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7328",
+            "display_name" : "Cole",
+            "id" : 106213544457973760,
+            "name" : "Whip"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "im here",
+        "id" : 694662289986551818,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:39:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7328",
+            "display_name" : "Cole",
+            "id" : 106213544457973760,
+            "name" : "Whip"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Okay",
+        "id" : 694662280331395123,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:39:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Come to tutoring",
+        "id" : 694662251818385498,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:39:47",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 694662230385623121,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:39:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7328",
+            "display_name" : "Cole",
+            "id" : 106213544457973760,
+            "name" : "Whip"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Ya boy here is stuck",
+        "id" : 694662211339157504,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:39:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Hi",
+        "id" : 694662171308851240,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:39:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7328",
+            "display_name" : "Cole",
+            "id" : 106213544457973760,
+            "name" : "Whip"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Hey Chase",
+        "id" : 694662156301500426,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:39:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "This is what I did",
+        "id" : 694662032041181264,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:38:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I have to redo it so I just want to make sure I do it correctly",
+        "id" : 694661862398230601,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:38:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "does anyone have a picture of their avltree from the exercise she extended",
+        "id" : 694661803258413206,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:38:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83d\udc4f",
+        "id" : 694661659909947442,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:37:25",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Yeah",
+        "id" : 694661494599712949,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:36:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720234946396170> Can you guys try and install TeamViewer Its linked in the tutoring Channel on the Server I linked earlier",
+        "id" : 694661344418463956,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615720234946396170,
+                "name" : "EGR221"
+            }
+        ],
+        "timestamp" : "2020-03-31 21:36:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "> A legendary meeting\n<@!186190029389824000> agreed",
+        "id" : 694605696754253884,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "5283",
+                "display_name" : "Isaiah Swanson",
+                "id" : 186190029389824000,
+                "name" : "LordZer0"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 17:55:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Also her exam is changing so much",
+        "id" : 694605666941403206,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 17:54:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "A legendary meeting",
+        "id" : 694605656967348265,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 17:54:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I was so confused for a second",
+        "id" : 694605514608345168,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 17:54:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "*Dr Han gets cut off* lol",
+        "id" : 694605357280133232,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 17:53:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Soo I'm reluctant to try the tutoring Han wants us to do remotely so I'm gonna try and do a group session today from 3:30 - 5:00 like I normally would do on Thursdays. You guys are all welcomed to come. I'll do it in the voice server on the ethical hacking server. It'll be an experience. Please let your other classmates know, here is a link to the server for anyone who isn't apart of it yet https://discord.gg/ZuWVyVB",
+        "id" : 694591662373994506,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 16:59:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Ok cool",
+        "id" : 694409130806607954,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 04:53:58",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Didn\u2019t *",
+        "id" : 694408197280104468,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 04:50:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "She don\u2019t send it out",
+        "id" : 694408171632066610,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 04:50:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "The announcement today was automatic",
+        "id" : 694408154015858719,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 04:50:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "cmon Lauren get with it",
+        "id" : 694408074173218856,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 04:49:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "so now it is zoom",
+        "id" : 694407961723928607,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 04:49:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Nope it was jitsi but she changed it today",
+        "id" : 694407937426194444,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 04:49:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Are you sure? The one from yesterday said zoom",
+        "id" : 694407877229805679,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 04:48:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Zoom",
+        "id" : 694407576485494855,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 04:47:47",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Is Han\u2019s lecture tm on zoom or Jitsi Bc the announcement that just came said zoom but she also said Jitsi the announcement before that",
+        "id" : 694407521481523341,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 04:47:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "gimme a sec",
+        "id" : 693286135463542784,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-28 02:31:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!563619004380610560> Can you send me your insert method? It says the error is in the insert method",
+        "id" : 693279201826046013,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "7381",
+                "display_name" : "Lauren Nelson",
+                "id" : 563619004380610560,
+                "name" : "LNels"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-28 02:04:02",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I don't either, sorry",
+        "id" : 693279134599741500,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-28 02:03:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "So I must\u2019ve done it before break. I don\u2019t really remember getting that",
+        "id" : 693279064173182987,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-28 02:03:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "For some reason mine was already turned in when I looked today",
+        "id" : 693278979007840356,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-28 02:03:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I don\u2019t think I got that",
+        "id" : 693278887735590922,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-28 02:02:47",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "^",
+        "id" : 693278841841385582,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-28 02:02:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "that is the underflow error. It didn't help me",
+        "id" : 693278841799704627,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-28 02:02:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "I think she addressed it in the video, but I can't remember",
+        "id" : 693278746110591039,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-28 02:02:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "If any of you have done the CA3 did you get a StackOverflowError?",
+        "id" : 693276967708917850,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-28 01:55:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "@everyone checkup is moved Bc of the announcement",
+        "id" : 691770923593891960,
+        "mention_everyone" : true,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-23 22:10:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "@everyone we have a checkup due today",
+        "id" : 691680972000854057,
+        "mention_everyone" : true,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-23 16:13:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Ok thank you Chase!",
+        "id" : 691389592833622028,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-22 20:55:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1322",
+            "display_name" : "Tomas Perez",
+            "id" : 196092311216717824,
+            "name" : "tomas13perez"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Will do",
+        "id" : 691387538853724230,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-22 20:47:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "If any of you have questions about homework or anything lmk and we will try to figure something out about it. We may need to get something like team viewer or some software along those lines.",
+        "id" : 691387449288687656,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-22 20:46:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Recursion be like:",
+        "id" : 682857452131450932,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-28 07:51:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726176924598294,
+            "name" : "egr221-data_structures"
+        },
+        "channel_mentions" : [],
+        "content" : "Apparently discord is being weird and won't let me send a video. But this link has the most tripy recursion video I have ever seen https://medium.com/@williambdale/recursion-the-pros-and-cons-76d32d75973a",
+        "id" : 682851911073792015,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-28 07:29:42",
+        "tts" : false
+    }
+]

@@ -1,0 +1,3978 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 704818194178768957,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 22:15:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 703399446083272714,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 00:18:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 702644563550011543,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 22:18:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "*whoops*",
+        "id" : 702596170291085313,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 19:06:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://www.youtube.com/watch?v=QYjPBcqo1-s",
+        "id" : 702562690765422663,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 16:53:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 702369827322462268,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-22 04:06:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 702259184028221480,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 20:47:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1212",
+            "display_name" : "Hermes",
+            "id" : 565365053981720622,
+            "name" : "hermes222"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 701674048203259924,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-20 06:02:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://ifunny.co/fun/2naSF0Va7?s=cl",
+        "id" : 700565434075709441,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-17 04:36:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 700117638902448158,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-15 22:57:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 699697836085870693,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 19:09:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 699402415337635840,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-13 23:35:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 699305440227622922,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-13 17:10:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 699305373160701952,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-13 17:09:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 699303856919806033,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-13 17:03:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 699167656200110090,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-13 08:02:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1212",
+            "display_name" : "Hermes",
+            "id" : 565365053981720622,
+            "name" : "hermes222"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 698382266807615598,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-11 04:01:47",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1212",
+            "display_name" : "Hermes",
+            "id" : 565365053981720622,
+            "name" : "hermes222"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 698381886090641479,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-11 04:00:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1212",
+            "display_name" : "Hermes",
+            "id" : 565365053981720622,
+            "name" : "hermes222"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://youtu.be/PpUKe6-crb4",
+        "id" : 698380012331597894,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-11 03:52:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 697664895654559805,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-09 04:31:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 697572325213732964,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-08 22:23:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 697175608412733462,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-07 20:06:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Coding with MS Paint \ud83d\udc4d",
+        "id" : 696633525461581825,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 08:12:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://youtu.be/yjI07JL4M-E",
+        "id" : 696633464413356102,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 08:12:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 694767361282146394,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 04:37:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "\"Faldkfjlad\" - Dr. Han",
+        "id" : 694605211364491294,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 17:53:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Tap to see the meme - https://ifunny.co/fun/tInuanUX7?s=u",
+        "id" : 693904230569738321,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-29 19:27:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 691497490826002532,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-23 04:04:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 689705107239075898,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-18 05:21:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 689360763655028741,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-17 06:33:33",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2317",
+            "display_name" : "Derek Bowman",
+            "id" : 635640932330635293,
+            "name" : "d_bow94"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 688958619370258562,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-16 03:55:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 688956578921054228,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-16 03:47:28",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 688130819255959570,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-13 21:06:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Jacob and I drew E.T. poking the little boy's eye out",
+        "id" : 687068146099945509,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-10 22:43:31",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Seth everman is a true lord of memes",
+        "id" : 687027162494140448,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-10 20:00:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://youtu.be/VSPuRXkUWoU",
+        "id" : 686490764552699914,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-09 08:29:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://youtu.be/yBjBXpAleig",
+        "id" : 686489737066053658,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-09 08:25:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 684964541620027434,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-05 03:24:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 684913376878526514,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-05 00:01:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 684689147386003497,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-04 09:10:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "reuse, reduce, recycle",
+        "id" : 684294648100814861,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-03 07:02:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 684182918872039456,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-02 23:38:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://media.discordapp.net/attachments/513476453099241475/683034265608257567/395381_CrispHarmlessFinnishspitz-size_restricted.gif",
+        "id" : 684170345816784913,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-02 22:48:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 684068078052442124,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-02 16:02:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83e\udd23",
+        "id" : 683795665830281276,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-01 21:59:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!173705394944737280>, I didnt know you were hosting a BBQ! Where's our invite?",
+        "id" : 683794390044508302,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "9852",
+                "display_name" : "Alex",
+                "id" : 173705394944737280,
+                "name" : "YouBoo"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-01 21:54:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 683182455112728614,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-29 05:23:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3626",
+            "display_name" : "Zach Bohn",
+            "id" : 415378735718465546,
+            "name" : "strider117"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 683179463814676634,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-29 05:11:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 683093921403895889,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-28 23:31:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 683093490883756049,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-28 23:29:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Protect yourself from the Coronavirus",
+        "id" : 683007986918359084,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-28 17:49:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 683007910279774208,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-28 17:49:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "...good bye tj",
+        "id" : 682733387391172628,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-27 23:38:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "> i--\n<@!495920975477604353> Does this mean i minus minus, or like you stuttering?",
+        "id" : 682439787860197395,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3729",
+                "display_name" : "isaOrdaz",
+                "id" : 495920975477604353,
+                "name" : "isaOrdaz"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-27 04:12:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83e\udd14",
+        "id" : 682439589629132810,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-27 04:11:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 682439471509405696,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-27 04:10:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "i--",
+        "id" : 682399140528783443,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-27 01:30:33",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 682302404456349725,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-26 19:06:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 679459380810219520,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-18 22:49:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 679458469786550272,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-18 22:45:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "DDescription",
+        "id" : 679458428036317195,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-18 22:45:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "The funny thing was is it was another D",
+        "id" : 679458334738481153,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-18 22:44:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 679458156845203481,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-18 22:44:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Dr. Peters: \"What does UDDI stand for? Universal...Description...?\"\nAlex *Not paying attention*: \"Language!\"",
+        "id" : 679457765101535252,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-18 22:42:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "sad but tru",
+        "id" : 675088263643660340,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-06 21:19:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://cdn.discordapp.com/attachments/342749535040438284/671473621281275904/IMG_1231.jpg",
+        "id" : 675088144244277270,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-06 21:19:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "I cant tell if you\u2019re actually angry or just being Jacob",
+        "id" : 674120772972970024,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-04 05:15:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Why does it look photoshopped but its not...",
+        "id" : 674040579155558419,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-03 23:56:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Whaaaaat",
+        "id" : 674036651680333834,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-03 23:41:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "How dare you, that meme is special to us",
+        "id" : 674032732388589617,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-03 23:25:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 673943269180440596,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-03 17:29:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://cdn.discordapp.com/attachments/667795775614353411/672877703157907460/Screen_Shot_2020-01-31_at_10.55.37_AM.png",
+        "id" : 672878982412107786,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-31 19:00:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Bool\n*enum",
+        "id" : 671541047494443016,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-28 02:24:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 671205538549202944,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-27 04:11:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Why did you just post a picture of light mode?",
+        "id" : 669468715447877632,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-22 09:09:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 669428558170685445,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-22 06:30:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "..............",
+        "id" : 668276759950655509,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:13:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Don't you mean my room?",
+        "id" : 668276466127077409,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:12:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 668276452634132520,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:12:02",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Have you been in my room?!?!",
+        "id" : 668276420782456898,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:11:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "This hangs on the ceiling above my bed for various reasons",
+        "id" : 668276318596759617,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:11:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "If you're me, then prove it",
+        "id" : 668275870313742347,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:09:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "I am the real Micah",
+        "id" : 668275852810780703,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:09:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "You're pointing to yourself too",
+        "id" : 668275849505669130,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:09:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "No get out false prophet",
+        "id" : 668275812893458432,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:09:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "This ones a decoy ^",
+        "id" : 668275782594068490,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:09:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "No that's me",
+        "id" : 668275737635323906,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:09:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Hey that's me",
+        "id" : 668275207349338112,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:07:05",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Courtesy of the real Micah",
+        "id" : 668275153276239902,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:06:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://media.discordapp.net/attachments/562320698370949150/668274271969345557/SmartSelect_20200118-180249_Firefox.jpg",
+        "id" : 668275003816411167,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 02:06:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "This is the beginning of the end times",
+        "id" : 668268921647792129,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 01:42:06",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "I am the real Micah\nlook at my heritage",
+        "id" : 668268571759214623,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 01:40:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 668267846140297217,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-19 01:37:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Us: 0",
+        "id" : 667795063924850714,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-17 18:19:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Im: 6",
+        "id" : 667795054659633163,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-17 18:19:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6987",
+            "display_name" : "Scott",
+            "id" : 628010316805963786,
+            "name" : "sho"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "That class was just u and alex",
+        "id" : 667565155504095252,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-17 03:05:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Quote of the Day:\n\"But I worked hard on this, I want to show my pretty GUI\" -Dr. Kolta",
+        "id" : 667550004038336513,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-17 02:05:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Robbie looking at my string that some how got a null pointer exception: \nI don\u2019t know how you did this but this takes a special kind of talent.",
+        "id" : 666847295224152064,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-15 03:33:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "me grading all y'alls homework",
+        "id" : 666755491489382406,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-14 21:28:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 666523397152571394,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-14 06:06:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 666515335222132743,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-14 05:33:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 666512457900228639,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-14 05:22:33",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 652564914409308183,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-12-06 17:39:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://www.reddit.com/r/ProgrammerHumor/comments/e2e3ra/cannot_find_library_in_javalibrarypath/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&utm_term=link",
+        "id" : 649346224574562323,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-27 20:30:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 648577985338671104,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-25 17:37:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 646774134197714970,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-20 18:09:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 646572372308262923,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-20 04:47:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "If I was code, I would be assembly because I don't run.",
+        "id" : 646570702480080896,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-20 04:41:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Woah woah,",
+        "id" : 646569855029346316,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-20 04:37:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "F5 how true programmers run",
+        "id" : 646569452648923148,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-20 04:36:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 646388725902999572,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-19 16:38:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 644356867656646689,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-14 02:04:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 644356684755632129,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-14 02:03:25",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 644356675758718976,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-14 02:03:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 644239846822641664,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-13 18:19:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 643638425882198026,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-12 02:29:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://columbiajester.com/2018/10/02/binary-word-search/",
+        "id" : 643537032177647645,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-11 19:46:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 642484592623878154,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-08 22:04:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "Alex Liu",
+            "id" : 105515823103275008,
+            "name" : "acliu"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 641836675928031233,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-07 03:09:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "<:ThanosDaddy:605013004026773514>",
+        "id" : 641796035693379604,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-07 00:28:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 641795799000285186,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-07 00:27:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 641794125263536129,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-07 00:20:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 641793249413038128,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-07 00:17:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 641792474251001857,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-07 00:14:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 641792378348371981,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-07 00:13:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 641789480461926411,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-07 00:02:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 641789461998338050,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-11-07 00:02:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/good-evil-starwars-emporerpalpatine-darkside-gif-4624104",
+        "id" : 639567200872824833,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-31 20:51:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/ihate-you-anakin-darth-vader-vader-star-wars-gif-13071041",
+        "id" : 639567131993964555,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-31 20:51:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "I hate you guys\ud83d\ude02",
+        "id" : 639566986371923988,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-31 20:50:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/yoda-muchtolearn-starwars-gif-10182983",
+        "id" : 639566716434776112,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-31 20:49:47",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "You stole my thunder",
+        "id" : 639566659874586624,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-31 20:49:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 639564656997957643,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-31 20:41:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "You folks have made my day.",
+        "id" : 638862767645917218,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-29 22:12:33",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 638862139544829986,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-29 22:10:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 638840389108891648,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-29 20:43:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 638474938721763341,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-28 20:31:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "oh it\u2019s Nick",
+        "id" : 634556070991233044,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-18 00:59:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 634534852187783178,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-17 23:34:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3527",
+            "display_name" : "Abanoub",
+            "id" : 167338910324621313,
+            "name" : "Bondou"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Monitors",
+        "id" : 631927433448259590,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-10 18:54:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 630795918769127425,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-07 15:57:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 630311965960568843,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-06 07:54:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 630087574182035467,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-05 17:03:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 629882826749378561,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-05 03:29:28",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://www.youtube.com/watch?time_continue=3&v=MAlSjtxy5ak",
+        "id" : 629440614991396895,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-03 22:12:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 629387556785750031,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-03 18:41:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 629382210012839937,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-03 18:20:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 629148490957586435,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-03 02:51:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 628686793134440490,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-01 20:16:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Human foo = new Child()",
+        "id" : 628664992249675787,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-01 18:50:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 628663489447329803,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-10-01 18:44:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7549",
+            "display_name" : "Gabriel",
+            "id" : 499015523661774856,
+            "name" : "gabrielduenas69"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 628330689988919306,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:41:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "General Kenobi!",
+        "id" : 628330495427608613,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:41:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "thats bold of you to assume he went",
+        "id" : 628330431737102336,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:40:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Wow didn't you go to chapel?",
+        "id" : 628330318306344981,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:40:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "whitespace",
+        "id" : 628330240325713931,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:40:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 628330171921072140,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:39:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "w\u0369\u0312\u0366t\u036d\u030a\u030df\u0309\u0304\u0303",
+        "id" : 628330103671357453,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:39:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "wtf\ud83d\ude02",
+        "id" : 628329887148671014,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:38:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 628329726733320213,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:38:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "T\u0324o\u0336\u0329\u035a \u0362\u0333\u0354i\u0356\u0356\u032an\u0361\u0324\u033bvo\u0327\u0347\u0332k\u034e\u0324\u034ee\u0335\u0354\u031e \u033c\u033ct\u0355h\u0338\u0317\u0331e\u0337\u034d\u0330 \u0334\u0326\u032ch\u034f\u0330i\u0358\u0319\u032av\u0326\u0339\u0330e\u0340\u0333\u031c-\u0318\u0347\u033bm\u035f\u032b\u034ei\u033a\u0349n\u032a\u0326\u032dd\u034f\u034d\u0331 \u031br\u031b\u033c\u0323e\u0316\u0323\u033bp\u033b\u0319\u032dr\u0360\u0319\u0331e\u0320\u0329\u031fs\u0361\u032ae\u0341\u0319\u0326n\u0354\u031d\u0355t\u032d\u0317\u035ai\u0328n\u0315\u0320\u0333g\u0362\u0359\u032d \u0338\u0323\u032ec\u0327\u033c\u032bh\u031f\u0348\u0324a\u0340\u0354\u0355o\u0337s\u0362\u033a\u032d.\u0324\n\u033bI\u031b\u032en\u033b\u0349\u0345v\u032b\u0348\u032co\u035e\u033c\u0330k\u035e\u0356\u035ai\u0327\u0347\u033bn\u035c\u034d\u0323g\u0315\u032d\u031c \u0337\u0359\u032eth\u0325\u031c\u0324e\u032d\u0324\u0348 f\u0340\u0356\u0330e\u0328e\u032f\u0325ling of chaos.\nW\u0489ith out order.\nThe Nezperdian hive-mind of chaos. Zalgo.\nHe who\u0489 Waits Behind The Wall.\nZALGO!",
+        "id" : 628329364320419861,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:36:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 628327140303044612,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:27:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://cdn.discordapp.com/attachments/557671076222599190/615197102514896906/image0.png",
+        "id" : 628326962259034120,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:27:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://cdn.discordapp.com/attachments/557671076222599190/623165318906380307/Screenshot_20190916-155023.jpg",
+        "id" : 628326776061558795,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:26:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 628326571899617311,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:25:28",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 628326156348948481,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:23:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/family-guy-css-open-window-annoyed-pissed-gif-12014506",
+        "id" : 628325877234532353,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:22:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "D\u0336\u034b\u0343i\u0334\u0302\u0328d\u0337\u033d\u0310 \u0336\u0302\u035dy\u0334\u0360\u0300o\u0336\u034b\u035du\u0338\u033e\u0315 \u0336\u034a\u0358e\u0337\u0341\u0342v\u0335\u0341\u031be\u0337\u035d\u0324r\u0334\u0310\u0308 \u0335\u0313\u0300h\u0336\u0308\u0312e\u0334\u0311\u0305a\u0338\u0314\u031ar\u0337\u0360\u033f \u0335\u0344\u0341t\u0335\u033e\u034ch\u0334\u035d\u0312e\u0334\u0311\u0312 \u0334\u033d\u0311t\u0337\u0341\u0358r\u0334\u0350\u034da\u0334\u030c\u0360g\u0335\u0302\u0310e\u0338\u0360\u0358d\u0336\u0346\u0342y\u0337\u0342\u030b \u0337\u030c\u033do\u0338\u0310\u0346f\u0335\u0341\u0346 \u0335\u0344\u033fD\u0334\u0304\u0305a\u0334\u0306\u030ar\u0336\u0360\u032ft\u0336\u0313\u030fh\u0336\u0350\u0310 \u0337\u0308\u0312P\u0336\u0357\u0360l\u0334\u033d\u0309a\u0335\u030d\u0317g\u0335\u0309\u0302u\u0337\u0358\u033ee\u0336\u030d\u030fi\u0338\u034a\u0306s\u0338\u034c\u033d \u0336\u0344\u0315T\u0337\u0350\u0309h\u0336\u0344e Wise?",
+        "id" : 628325618647302156,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-30 20:21:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://www.reddit.com/r/ProgrammerHumor/comments/da6out/linear_search/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+        "id" : 627369409970962446,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-28 05:02:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 626106997041004554,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-24 17:25:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 624315561014460418,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-19 18:47:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "after typing git push to submit Han\u2019s hw",
+        "id" : 622560058646986788,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-14 22:31:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 622522873726107659,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-14 20:03:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://cdn.discordapp.com/attachments/557671076222599190/617636124072083466/image0.jpg",
+        "id" : 621880031706087424,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-13 01:29:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 620753294410645515,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-09 22:51:58",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "Dr. Han: \"Writing methods before Tests is a YeeHaw Cowboy Approach\" \nDr. Im:",
+        "id" : 620753131625644062,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-09 22:51:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 619558343903674378,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-06 15:43:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://media.discordapp.net/attachments/463017429149417472/582791678117543937/FB_IMG_1559018751779.jpg",
+        "id" : 618945979747401728,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-04 23:10:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "When Dr. Im gets locked in the stairwell",
+        "id" : 618909390514290719,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-04 20:44:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615807312984277012,
+            "name" : "memes"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/let-me-in-eric-andre-wanna-come-in-gif-13730108",
+        "id" : 618909359455338497,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-04 20:44:50",
+        "tts" : false
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 695085103679799328,
+            "name" : "announcements"
+        },
+        "channel_mentions" : [
+            {
+                "id" : 699753726768054352,
+                "name" : "bot-commands"
+            }
+        ],
+        "content" : "Hello @everyone,\n\nI'm excited to announce the SoftWhere is my Freetime? Minecraft Server! It is a Faction PVP Server.\nIn order to get added to the whitelist go to the <#699753726768054352> channel and type !whitelist add <username> and you'll be automatically added to the whitelist.\n\nServer IP: mygoodchristianminecraftserver.com\nView the Map Online: mygoodchristianminecraftserver.com:8123\n\nIf you notice any issues and suggestions for the server please let me know!\nIf you'd like to donate to keep the server alive feel free to reach out to me!\n\nThanks!",
+        "id" : 700436529129979924,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : true,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 20:04:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 695085103679799328,
+            "name" : "announcements"
+        },
+        "channel_mentions" : [
+            {
+                "id" : 615730298914865183,
+                "name" : "classes"
+            },
+            {
+                "id" : 694265865201385542,
+                "name" : "tutoring"
+            },
+            {
+                "id" : 694715260858531967,
+                "name" : "suggestions"
+            }
+        ],
+        "content" : "Hi @everyone. I wanted to share some reminders and general info about this server, so that we can make the most out\nof the resources we have. Here are a few ways to make the most out of this server:\n\n1) If you know of other students who could benefit from the community we have created, you can share this link to allow them to join. https://discord.gg/3QeCGDt\n\n2) You can join a class specific channels. If you go to the <#615730298914865183> channel, you can press the \ud83d\udcaf emoji and you will be added to the channel. Similarly, if you want to leave a class you are no longer in, or wish to no longer recieve notifications, simply press the \ud83d\udcaf emoji again.\n\n3) There are now channels dedicated for tutoring EGR 222, 227, and CSC312. If you need assistance, you can reach out to a tutor. Tutors are listed separately from other users for convenience, or you can <@&694663610382811247> in the <#694265865201385542> room.\n\n4) Voice channels are now available for group projects or discussions. \n\n5) If your nickname on the server is something other than the name you go by, fellow classmates may not be able to reach out to ask questions.\n\n6) Helping other students is encouraged, but sharing answers is not. Keep academic integrity in mind when sharing links, files or resources.\n\n7) Lastly, if you have any suggestions that could improve the server, you can send me a message or leave a comment in <#694715260858531967>.\n\n\nHappy Coding,\n\n- Alex",
+        "id" : 695106609952587807,
+        "mention_everyone" : true,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 694663610382811247,
+                "name" : "Tutor"
+            }
+        ],
+        "timestamp" : "2020-04-02 03:05:30",
+        "tts" : false
+    }
+]

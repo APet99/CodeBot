@@ -1,0 +1,2834 @@
+[
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "The following package was not found in any cog path: `Testcog`.",
+        "id" : 690012262341279787,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:42:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : ">>load Testcog",
+        "id" : 690012261049565280,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:42:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 690012207525920815,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:42:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 690012206649311436,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:42:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : ">>cogs",
+        "id" : 690012205718175873,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:42:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "The following package was not found in any cog path: `all`.",
+        "id" : 690011995956707401,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:41:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : ">>load all",
+        "id" : 690011994421592073,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:41:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 690011965459792112,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:41:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : ">>load",
+        "id" : 690011964155494486,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:41:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "The following package was not found in any cog path: `Testcog`.",
+        "id" : 690011696806494270,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:40:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : ">>load Testcog",
+        "id" : 690011695069921317,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:40:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Failed to load the following package: `testcog`.\nCheck your console or logs for details.",
+        "id" : 690011623951564906,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:39:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : ">>load testcog",
+        "id" : 690011622315524248,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:39:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : ">>testcog",
+        "id" : 690011565612990491,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:39:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "The following package was not found in any cog path: `Testcog`.",
+        "id" : 690011534390329344,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:39:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : ">>load Testcog",
+        "id" : 690011532268142601,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:39:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 690011442774147162,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:39:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 690011442140938260,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:39:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : ">>cogs",
+        "id" : 690011441163796654,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:39:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "```\nInstall Path: C:\\Users\\Alex\\Desktop\\CodeBot\\data\\cogs\\CogManager\\cogs\nCore Path: c:\\python38\\lib\\site-packages\\redbot\\cogs\n\n\n```",
+        "id" : 690011361773748290,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:38:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : ">>paths",
+        "id" : 690011360519651341,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 01:38:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 689998820125573354,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 00:48:58",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 689998819307684160,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 00:48:58",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : ">>help",
+        "id" : 689998818300657712,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-19 00:48:57",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Lol",
+        "id" : 618687969032798217,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-04 06:05:06",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "I'm deleting  that dang webhook",
+        "id" : 618685585032216576,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-04 05:55:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "OutlookHook",
+            "id" : 615824458871210014,
+            "name" : "OutlookHook"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "This is the messsage: September 03, 2019 at 10:45PM",
+        "id" : 618682976879771658,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-04 05:45:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Oof",
+        "id" : 618320735785451560,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-03 05:45:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "OutlookHook",
+            "id" : 615824458871210014,
+            "name" : "OutlookHook"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "This is the messsage: September 02, 2019 at 10:45PM",
+        "id" : 618320689765810201,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-03 05:45:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "I got to disable that lol",
+        "id" : 617960527523610634,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-02 05:54:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Lol",
+        "id" : 617958334712119298,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-02 05:45:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "OutlookHook",
+            "id" : 615824458871210014,
+            "name" : "OutlookHook"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "This is the messsage: September 01, 2019 at 10:45PM",
+        "id" : 617958202469908480,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-02 05:45:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "OutlookHook",
+            "id" : 615824458871210014,
+            "name" : "OutlookHook"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "This is the messsage: August 31, 2019 at 10:45PM",
+        "id" : 617595882698702868,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-09-01 05:45:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "That's obnoxious lol",
+        "id" : 617234017091190785,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-31 05:47:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "OutlookHook",
+            "id" : 615824458871210014,
+            "name" : "OutlookHook"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "This is the messsage: August 30, 2019 at 10:45PM",
+        "id" : 617233491435847680,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-31 05:45:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "OutlookHook",
+            "id" : 615824458871210014,
+            "name" : "OutlookHook"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "This is the messsage: August 29, 2019 at 10:45PM",
+        "id" : 616871001594003459,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-30 05:45:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Another thing we can look into is IFTTT platform. It\u2019s more coding passed off of TypeScript",
+        "id" : 616540245319483412,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:50:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Yeah thats probably not gonna work",
+        "id" : 616538483850346502,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:43:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Oof",
+        "id" : 616538380628393984,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:43:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Ooof",
+        "id" : 616538222171914241,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:42:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616534812030926891,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:29:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616532930440855584,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:21:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616532543545802768,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:20:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!383020271336030209>  Ayoo\n```\nno\n:eggplant:\n````Chase - 28-08-2019 22:18 | #testing`",
+        "id" : 616529728022511646,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3540",
+                "display_name" : "Chase Crossley",
+                "id" : 383020271336030209,
+                "name" : "dakotac55"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:09:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "https://zapier.com/?utm_source=google&utm_medium=cpc&utm_campaign=gaw-usa-nua-search-all-brand_exact&utm_term=zapier&utm_content=JChiQv5G_pcrid_336225187084_pkw_zapier_pmt_e_pdv_c_slid__pgrid_61320304925_ptaid_kwd-298647606221_&gclid=Cj0KCQjw753rBRCVARIsANe3o46pOa-PAFqs2UBC1-xXEyZQDdZzhc_zBspgVZ-TEnjLP9FcKgEC3GUaAkvXEALw_wcB",
+        "id" : 616529712730079232,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:08:58",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!173705394944737280>  Test\n```\n{ \"content\": \"<<< {{Body}}>>>\"}\n````Alex - 28-08-2019 23:45 | #testing`",
+        "id" : 616529555707920384,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "9852",
+                "display_name" : "Alex",
+                "id" : 173705394944737280,
+                "name" : "YouBoo"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:08:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Test",
+        "id" : 616529301138833408,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:07:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "@Spidey Bot#0000  Test\n```\n**HI**\n````Spidey Bot - 28-08-2019 22:58 | #testing`",
+        "id" : 616529271468589068,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:07:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "@OutlookHook#0000  Test\n```\ns;dfjkgfnz\n````OutlookHook - 28-08-2019 23:54 | #testing`",
+        "id" : 616529166208204802,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:06:47",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "@OutlookHook#0000  Test\n```\nNew Announcement Available\n````OutlookHook - 28-08-2019 23:50 | #testing`",
+        "id" : 616529132938985482,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:06:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616528274864209931,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:03:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "This @OutlookHook#0000 \n```\ns;dfjkgfnz\n````OutlookHook - 28-08-2019 23:54 | #testing`",
+        "id" : 616528119507058709,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:02:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "@OutlookHook#0000  This\n```\ns;dfjkgfnz\n````OutlookHook - 28-08-2019 23:54 | #testing`",
+        "id" : 616527995146076170,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 07:02:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "OutlookHook",
+            "id" : 615824458871210014,
+            "name" : "OutlookHook"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "s;dfjkgfnz",
+        "id" : 616525989832425473,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:54:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616525295796617225,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:51:25",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "OutlookHook",
+            "id" : 615824458871210014,
+            "name" : "OutlookHook"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "New Announcement Available",
+        "id" : 616525117455073280,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:50:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "https://discordapp.com/invite/IFTTT",
+        "id" : 616524046032437279,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:46:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "{ \"content\": \"<<< {{Body}}>>>\"}",
+        "id" : 616523814423232552,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:45:31",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616522312153432064,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:39:33",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616521181918658567,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:35:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "Spidey Bot",
+            "id" : 616507661516537856,
+            "name" : "Spidey Bot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "this `supports` __a__ **subset** *of* ~~markdown~~ \ud83d\ude03 ```js\nfunction foo(bar) {\n console.log(bar);\n}\n\nfoo(1);```\nWhen sending webhooks, you can have [masked links](https://discordapp.com) in here!",
+        "id" : 616520141538197509,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:30:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "https://www.youtube.com/watch?v=4LxMjo0Ov90",
+        "id" : 616519699349635072,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:29:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "Spidey Bot",
+            "id" : 616507661516537856,
+            "name" : "Spidey Bot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "this `supports` __a__ **subset** *of* ~~markdown~~ \ud83d\ude03 ```js\nfunction foo(bar) {\n console.log(bar);\n}\n\nfoo(1);```",
+        "id" : 616519632525852691,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:28:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "Spidey Bot",
+            "id" : 616507661516537856,
+            "name" : "Spidey Bot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "this `supports` __a__ **subset** *of* ~~markdown~~ \ud83d\ude03 ```js\nfunction foo(bar) {\n console.log(bar);\n}\n\nfoo(1);```",
+        "id" : 616518826539876362,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:25:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Check this",
+        "id" : 616516164452876308,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:15:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "https://birdie0.github.io/discord-webhooks-guide/",
+        "id" : 616515816946663424,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:13:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "https://leovoel.github.io/embed-visualizer/",
+        "id" : 616515719416250378,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 06:13:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "Spidey Bot",
+            "id" : 616507661516537856,
+            "name" : "Spidey Bot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "**HI**",
+        "id" : 616511978751524866,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:58:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "https://discordapp.com/developers/docs/resources/webhook",
+        "id" : 616511099516485633,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:55:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616510906880360464,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:54:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "```JSON\n\nBody:\n{\n  \"username\":\"IFTTT YouTube Test\",\n  \"avatar_url\":\"https://blog.eu.playstation.com/files...\",\n  \"content\":\"**{{AuthorName}}** uploaded **{{Title}}** at {{CreatedAt}}: {{Url}}\"\n}\n\n```",
+        "id" : 616510612901593098,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:53:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616509096518090753,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:47:02",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "OutlookHook",
+            "id" : 615824458871210014,
+            "name" : "OutlookHook"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "This is the messsage: August 28, 2019 at 10:45PM",
+        "id" : 616508729591857162,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:45:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "kk one sec",
+        "id" : 616505230586019872,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:31:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Im back",
+        "id" : 616505139443793921,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:31:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "lmao",
+        "id" : 616502109940219911,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:19:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83c\udf46",
+        "id" : 616501945913311233,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:18:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "no",
+        "id" : 616501891383164968,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:18:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "I got the rule set up. Just oofed the IFTTT I think",
+        "id" : 616501861977030666,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:18:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "same bro",
+        "id" : 616501798634782721,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:18:02",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 616501771166023700,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "lmao",
+        "id" : 616501759849922560,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "heck no",
+        "id" : 616501744913874944,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "r",
+        "id" : 616501695437996032,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!mute",
+        "id" : 616501693361815553,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "n",
+        "id" : 616501688366399488,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "o",
+        "id" : 616501669982765076,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "c",
+        "id" : 616501661912924160,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83d\ude02",
+        "id" : 616501646918156288,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "k",
+        "id" : 616501640010268672,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:25",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "o",
+        "id" : 616501632179372033,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "o",
+        "id" : 616501623975444481,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "t",
+        "id" : 616501616476028938,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "f",
+        "id" : 616501612294438957,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "g",
+        "id" : 616501611669225472,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "f",
+        "id" : 616501606174949397,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "lol",
+        "id" : 616501587384336384,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "never",
+        "id" : 616501551967502340,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "?",
+        "id" : 616501541771149352,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:17:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "What stop",
+        "id" : 616501531344240640,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:16:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "no",
+        "id" : 616501507671457822,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 05:16:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "I can do stuff!",
+        "id" : 616480228155457537,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:52:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!mycom",
+        "id" : 616480227530375168,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:52:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Loaded `Announcements`.",
+        "id" : 616480181154086912,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:52:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!load Announcements",
+        "id" : 616480178952077313,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:52:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616480100321591296,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:51:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616480099625074688,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:51:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!cogs",
+        "id" : 616480098874556426,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:51:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "The following package was not found in any cog path: `mycog`.",
+        "id" : 616480038006685697,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:51:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!load mycog",
+        "id" : 616480036677222402,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:51:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "Path successfully added.",
+        "id" : 616479978611015680,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:51:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!addpath D:\\CodeBot\\cogs",
+        "id" : 616479977499656205,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:51:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "```\nInstall Path: D:\\CodeBot\\cogs\\CogManager\\cogs\nCore Path: c:\\python37\\lib\\site-packages\\redbot\\cogs\n\n\n```",
+        "id" : 616479804656713730,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:50:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!paths",
+        "id" : 616479803914321930,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:50:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "4876",
+            "display_name" : "MEE6",
+            "id" : 159985870458322944,
+            "name" : "MEE6"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616479561328230420,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:49:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "4876",
+            "display_name" : "MEE6",
+            "id" : 159985870458322944,
+            "name" : "MEE6"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616479559088341010,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:49:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "4876",
+            "display_name" : "MEE6",
+            "id" : 159985870458322944,
+            "name" : "MEE6"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616479556408442900,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:49:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616479553061388288,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:49:39",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "4876",
+            "display_name" : "MEE6",
+            "id" : 159985870458322944,
+            "name" : "MEE6"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616479552587431959,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:49:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616479552104955925,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:49:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!help",
+        "id" : 616479551664685077,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:49:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 616479535059304480,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:49:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!addpath",
+        "id" : 616479534048346112,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:49:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!path",
+        "id" : 616479486279680000,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:49:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "8821",
+            "display_name" : "CodeBot",
+            "id" : 604552104207581202,
+            "name" : "CodeBot"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "The following package was not found in any cog path: `mycog`.",
+        "id" : 616479366985285633,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:48:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!load mycog",
+        "id" : 616479364846190603,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:48:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!load mycog",
+        "id" : 616479196813721600,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:48:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615821911166812180,
+            "name" : "testing"
+        },
+        "channel_mentions" : [],
+        "content" : "!laod mycog",
+        "id" : 616479153146822677,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2019-08-29 03:48:03",
+        "tts" : false
+    }
+]

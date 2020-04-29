@@ -1,0 +1,32 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615726267181957185,
+            "name" : "egr222-software_engineering"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!688299063732600881>",
+        "id" : 696471790062403624,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "4045",
+                "display_name" : "Nick DiSanto",
+                "id" : 688299063732600881,
+                "name" : "Nick DiSanto"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-05 21:30:14",
+        "tts" : false
+    }
+]

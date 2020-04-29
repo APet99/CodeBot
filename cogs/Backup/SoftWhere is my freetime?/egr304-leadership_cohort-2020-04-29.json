@@ -1,0 +1,90 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3325",
+            "display_name" : "Nixk Mark",
+            "id" : 345744180917829644,
+            "name" : "CaptainWhymer"
+        },
+        "channel" : {
+            "id" : 615726935120805898,
+            "name" : "egr304-leadership_cohort"
+        },
+        "channel_mentions" : [],
+        "content" : "Awesome, thanks!",
+        "id" : 669196490278961163,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-21 15:07:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615726935120805898,
+            "name" : "egr304-leadership_cohort"
+        },
+        "channel_mentions" : [],
+        "content" : "im up here rn and i can show u where it is if u dont know",
+        "id" : 669196440450367508,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-21 15:07:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615726935120805898,
+            "name" : "egr304-leadership_cohort"
+        },
+        "channel_mentions" : [],
+        "content" : "egr 369",
+        "id" : 669196363006869504,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-21 15:07:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3325",
+            "display_name" : "Nixk Mark",
+            "id" : 345744180917829644,
+            "name" : "CaptainWhymer"
+        },
+        "channel" : {
+            "id" : 615726935120805898,
+            "name" : "egr304-leadership_cohort"
+        },
+        "channel_mentions" : [],
+        "content" : "For those people in Clement's 7:30 cohort...where do we meet?",
+        "id" : 669196310028484618,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-21 15:07:13",
+        "tts" : false
+    }
+]

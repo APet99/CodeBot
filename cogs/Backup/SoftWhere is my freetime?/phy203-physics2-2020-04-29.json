@@ -1,0 +1,46 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615722732293849098,
+            "name" : "phy203-physics2"
+        },
+        "channel_mentions" : [],
+        "content" : "honestly, it does though",
+        "id" : 694957122227535922,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 17:11:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 615722732293849098,
+            "name" : "phy203-physics2"
+        },
+        "channel_mentions" : [],
+        "content" : "This class makes me sad ):",
+        "id" : 694661783499309107,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-31 21:37:55",
+        "tts" : false
+    }
+]

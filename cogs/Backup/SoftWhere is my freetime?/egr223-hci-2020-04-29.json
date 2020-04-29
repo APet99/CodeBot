@@ -1,0 +1,975 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "friendly reminder that our final is on monday \ud83d\ude22",
+        "id" : 703769390092648498,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-26 00:48:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "ok cool thanks. I'll try it",
+        "id" : 703414916220190720,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:19:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8360",
+            "display_name" : "David",
+            "id" : 100327212028268544,
+            "name" : "Sponge"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "ah ok, that's what I thought it looked like. yeah the link should work for styling <table>, <td>, and the headers <th>",
+        "id" : 703413523820183632,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:14:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "I have a table but I am currently just looping through the data with a while loop (like while there's data in the query) and echoing out the <td> by row",
+        "id" : 703413226846552168,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:13:02",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8360",
+            "display_name" : "David",
+            "id" : 100327212028268544,
+            "name" : "Sponge"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "how are you displaying it in your code?",
+        "id" : 703412934885376100,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:11:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Can you do that?",
+        "id" : 703412895236489267,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:11:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "though",
+        "id" : 703412857198608505,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:11:33",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "if I'm pulling it from my database thoug?",
+        "id" : 703412847362965525,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:11:31",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8360",
+            "display_name" : "David",
+            "id" : 100327212028268544,
+            "name" : "Sponge"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "there's a few css generators online for this kinda stuff, like https://divtable.com/table-styler/",
+        "id" : 703412730605863013,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:11:03",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Idk if I need to do anything else but it looks like a mess rn",
+        "id" : 703412566029762701,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:10:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 703412470428991599,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:10:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Well I basically have a ton of users' data that I need to display on the screen . Right now I just have it in rows but Idk if it looks that good... This is what it looks like rn",
+        "id" : 703412426086940804,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:09:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8360",
+            "display_name" : "David",
+            "id" : 100327212028268544,
+            "name" : "Sponge"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "how do you want to display/style the output?",
+        "id" : 703412005674942506,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:08:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "I am storing a ton of information and then just outputting it on the screen but I don't know if there's a way to make it look good",
+        "id" : 703098865661771797,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 04:23:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Is there a way to style output from a database?",
+        "id" : 703098715027668994,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 04:23:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "yee",
+        "id" : 702207480184176729,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 17:21:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7915",
+            "display_name" : "Andrew Cantrel",
+            "id" : 675101322294329344,
+            "name" : "andyrooc23"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "we still have the final tho",
+        "id" : 702207385992691834,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 17:21:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "I should\u2019ve been studying instead of doing it",
+        "id" : 702169543916781648,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 14:51:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Thank god",
+        "id" : 702078644465434665,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 08:49:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "0786",
+            "display_name" : "Ethan V.",
+            "id" : 247255105202683906,
+            "name" : "eton1102"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 702078534067421224,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 08:49:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7892",
+            "display_name" : "Jacob Korte",
+            "id" : 330526733461880847,
+            "name" : "Abused Toxin"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Really?!?",
+        "id" : 702078397651615755,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 08:48:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "0786",
+            "display_name" : "Ethan V.",
+            "id" : 247255105202683906,
+            "name" : "eton1102"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "<@&615720247181312035> Yall we got an extra week for assignment 4.",
+        "id" : 702078282660577289,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [
+            {
+                "id" : 615720247181312035,
+                "name" : "EGR223"
+            }
+        ],
+        "timestamp" : "2020-04-21 08:48:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "hey don't forget to change the database password  when trying to connect to your database. I have been trying to figure out why registration doesn't work when I realized that I didn't change it in there for like an hour",
+        "id" : 696097558434676786,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 20:43:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Im sent out an email \ud83d\ude42",
+        "id" : 694194147141353580,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-30 14:39:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Yeah",
+        "id" : 693950319880700006,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-29 22:30:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "also turns out the next Assignment got pushed out to Wednesday, April 15th",
+        "id" : 693946050213314612,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-29 22:13:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "I'm gonna email him rn",
+        "id" : 693943019937726546,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-29 22:01:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "its not just that I haven't gotten it",
+        "id" : 693943001340182528,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-29 22:01:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "sick",
+        "id" : 693942962996117526,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-29 22:01:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Nope",
+        "id" : 693942891575377930,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-29 22:01:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "has anyone heard from Im about classes?",
+        "id" : 693942313109422110,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-29 21:59:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "nope",
+        "id" : 687211195605843975,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-11 08:11:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Has anyone finished HW18?",
+        "id" : 687178465035943940,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-11 06:01:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Fibonacci Phy code",
+        "id" : 684224214554902539,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-03 02:22:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3287",
+            "display_name" : "Chris",
+            "id" : 114214804993867785,
+            "name" : "CaptainCrunch42"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "idk I took a nap instead of working",
+        "id" : 683814222034894886,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-01 23:13:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "No clue. About to start it",
+        "id" : 683810207595495547,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-01 22:57:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Does anyone know what the function to search an array element is? The array_search() is apparently for associative arrays.",
+        "id" : 683806267185299561,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-01 22:41:58",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "That\u2019s not what I was trying to ask",
+        "id" : 681754278670368828,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-25 06:48:06",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "The access code didn\u2019t work",
+        "id" : 680499326509645834,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-21 19:41:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Bc balsamiq was not working",
+        "id" : 680499251406700655,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-21 19:41:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Also don't forget to come to the meeting",
+        "id" : 680498651780612138,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-21 19:38:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Why \ud83d\ude05",
+        "id" : 680498603080417389,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-21 19:38:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7381",
+            "display_name" : "Lauren Nelson",
+            "id" : 563619004380610560,
+            "name" : "LNels"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "If you can\u2019t get the balsamiq to work, I downloaded adobe XD. It\u2019s free",
+        "id" : 680495296349864032,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-21 19:25:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9527",
+            "display_name" : "Reuella",
+            "id" : 671975752249507841,
+            "name" : "Meh Panda"
+        },
+        "channel" : {
+            "id" : 615726359976738817,
+            "name" : "egr223-hci"
+        },
+        "channel_mentions" : [],
+        "content" : "Hey everyone! Could anyone explain query strings to me?",
+        "id" : 679585351320600576,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-19 07:09:33",
+        "tts" : false
+    }
+]

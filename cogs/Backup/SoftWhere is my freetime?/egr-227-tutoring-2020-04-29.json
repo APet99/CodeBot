@@ -1,0 +1,134 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 703376808396980374,
+            "name" : "egr-227-tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83d\ude4a",
+        "id" : 704455630865563810,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 22:15:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3301",
+            "display_name" : "Brandon",
+            "id" : 392819882707779604,
+            "name" : "Daechathon"
+        },
+        "channel" : {
+            "id" : 703376808396980374,
+            "name" : "egr-227-tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "I didn\u2019t know that you were mom",
+        "id" : 704455370227318864,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 22:14:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 703376808396980374,
+            "name" : "egr-227-tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "You're mom",
+        "id" : 704443298160312390,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 21:26:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6038",
+            "display_name" : "titooooo27",
+            "id" : 385246820667883561,
+            "name" : "titooooo27"
+        },
+        "channel" : {
+            "id" : 703376808396980374,
+            "name" : "egr-227-tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "What\u2019s that code for?",
+        "id" : 703440204706349137,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 03:00:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 703376808396980374,
+            "name" : "egr-227-tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "\ud83e\udd16",
+        "id" : 703379059354107926,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 22:57:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "0000",
+            "display_name" : "DiscordBeam",
+            "id" : 703378654188666971,
+            "name" : "DiscordBeam"
+        },
+        "channel" : {
+            "id" : 703376808396980374,
+            "name" : "egr-227-tutoring"
+        },
+        "channel_mentions" : [],
+        "content" : "```java\nprivate Connection connect() {\n        Connection c = null;\n        try {\n            Class.forName(\"org.postgresql.Driver\");\n            c = DriverManager\n                    .getConnection(\"jdbc:postgresql://localhost:5432/postgres\",\n                            \"postgres\", \"Manafest1\");\n            System.out.println(\"Opened database successfully\");\n        } catch (Exception e) {\n            System.out.println(e.getClass().getName() + \": \" + e.getMessage());\n        }\n        return c;\n    }\n```",
+        "id" : 703378954836377633,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 22:56:50",
+        "tts" : false
+    }
+]

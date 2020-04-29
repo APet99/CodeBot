@@ -1,0 +1,594 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "from what i understood yes",
+        "id" : 704183036853616674,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 04:11:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "The 4Mat is just a 1 page executive summary on 1 chapter from the book, right? For Im's section",
+        "id" : 704182916846059531,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 04:11:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 703404392405139466,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 00:37:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "> im glad you folks enjoy my demo. I do not stream, i simply program and make above-par* demo videos every once in a while\n <@!183638326354509826>",
+        "id" : 703343928899928085,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "4015",
+                "display_name" : "TJ",
+                "id" : 183638326354509826,
+                "name" : "timroejr"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 20:37:40",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "im glad you folks enjoy my demo. I do not stream, i simply program and make sub-par demo videos every once in a while",
+        "id" : 703316573217095731,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:48:58",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 703313495189356635,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:36:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "straight up beautiful \ud83d\udc4c\ud83c\udffe",
+        "id" : 703312908423135362,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:34:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "\"May covid save us\" - <@!183638326354509826>",
+        "id" : 703312691791659129,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "4015",
+                "display_name" : "TJ",
+                "id" : 183638326354509826,
+                "name" : "timroejr"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:33:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!183638326354509826>  do you stream???",
+        "id" : 703312683641995364,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "4015",
+                "display_name" : "TJ",
+                "id" : 183638326354509826,
+                "name" : "timroejr"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:33:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "BOOM!!",
+        "id" : 703312246117236736,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:31:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "This is the funniest thing I have ever seen!",
+        "id" : 703312077195968643,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:31:06",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!183638326354509826> That is how you make a demo video, everyone else take notes",
+        "id" : 703312020531052545,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "4015",
+                "display_name" : "TJ",
+                "id" : 183638326354509826,
+                "name" : "timroejr"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:30:52",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1724",
+            "display_name" : "Austen",
+            "id" : 121018207958990849,
+            "name" : "TheImmortalVoid"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "IM DONE!! \ud83e\udd23",
+        "id" : 703311764951007322,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:29:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "8027",
+            "display_name" : "Rigo",
+            "id" : 493973109175484435,
+            "name" : "Rigo_Gonz"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "Don\u2019t remind me \ud83d\ude2d\ud83d\ude2d",
+        "id" : 703309482444456116,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:20:47",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "that has been our entire groups quote",
+        "id" : 703309476819894373,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:20:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9869",
+            "display_name" : "Micah Steinbock",
+            "id" : 330898258131943426,
+            "name" : "mikes930"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "\"RIP React\" - <@!495920975477604353>",
+        "id" : 703309166885863528,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "3729",
+                "display_name" : "isaOrdaz",
+                "id" : 495920975477604353,
+                "name" : "isaOrdaz"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-24 18:19:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "Thank you \ud83d\ude02",
+        "id" : 696810708947697725,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 19:56:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "<@183638326354509826> Your commentary for the ESLO video was actually amazing.",
+        "id" : 696806560839499857,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "4015",
+                "display_name" : "TJ",
+                "id" : 183638326354509826,
+                "name" : "timroejr"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-06 19:40:30",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "\"Pics or it didn't happen\" - Dr. Im",
+        "id" : 695864271900246056,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-04 05:16:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6987",
+            "display_name" : "Scott",
+            "id" : 628010316805963786,
+            "name" : "sho"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "what part about it did you hate cus i might be running into the same issue you had before",
+        "id" : 680146723376594974,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-20 20:20:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "Nah, I used Heroku once and I hated it, so I never used it again <@!628010316805963786>",
+        "id" : 680146520989106191,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "6987",
+                "display_name" : "Scott",
+                "id" : 628010316805963786,
+                "name" : "sho"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-20 20:19:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6987",
+            "display_name" : "Scott",
+            "id" : 628010316805963786,
+            "name" : "sho"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "has anyone used heroku before and knows how they search and read your files? <@!183638326354509826>",
+        "id" : 679928284464676865,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "4015",
+                "display_name" : "TJ",
+                "id" : 183638326354509826,
+                "name" : "timroejr"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-20 05:52:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "Class will start at 10am today (2/14).",
+        "id" : 677928509414572040,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-14 17:25:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 615726775389126657,
+            "name" : "egr302-egr_design"
+        },
+        "channel_mentions" : [],
+        "content" : "Here is the download link from the email sent.",
+        "id" : 667800946692194324,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : true,
+        "role_mentions" : [],
+        "timestamp" : "2020-01-17 18:42:32",
+        "tts" : false
+    }
+]

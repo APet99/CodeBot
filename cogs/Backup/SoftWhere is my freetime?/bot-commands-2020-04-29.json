@@ -1,0 +1,816 @@
+[
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "7254",
+            "display_name" : "Groovy",
+            "id" : 234395307759108106,
+            "name" : "Groovy"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 704587283025887323,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 06:58:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-loop",
+        "id" : 704587282639749150,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 06:58:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-p lofi hip-hop beats",
+        "id" : 704587272443527288,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-28 06:58:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-p lofi hip-hop beats",
+        "id" : 704145486357069864,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 01:42:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-clear",
+        "id" : 704145475196026920,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 01:42:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "7254",
+            "display_name" : "Groovy",
+            "id" : 234395307759108106,
+            "name" : "Groovy"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 704145393017028678,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 01:42:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-p lofi hip-hop beats",
+        "id" : 704145389158268999,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-27 01:42:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "7254",
+            "display_name" : "Groovy",
+            "id" : 234395307759108106,
+            "name" : "Groovy"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "```nimrod\n26) The Left. Rights - I'm On Crack        1:49      \n     \u2b10 current track                                 \n27) SavageRealm - Aggressive Masturbation  0:39 left \n     \u2b11 current track                                 \n28) Inner Circle - Bad Boys (Theme from C\u2026 3:49      \n29) Captain Jack - Captain Jack - Short M\u2026 4:08      \n30) The Theme Song - Fuck This Shit I'm O\u2026 0:25      \n31) Kahoot! - Lobby (Original Soundtrack)  2:24      \n32) C418 - Sweden                          3:35      \n33) The Sugarhill Gang - Jump on It!       3:25      \n34) Nicholas Fraser - Why You Always Lyin\u2026 3:47      \n35) GraphicMuzik - KahootGm                2:16      \n                                                     \n 73 more track(s)                                    \n```",
+        "id" : 703440707305865288,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 03:02:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6482",
+            "display_name" : "Cameron",
+            "id" : 403087423074205698,
+            "name" : "Lucario202"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-q",
+        "id" : 703440705950973983,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 03:02:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "7254",
+            "display_name" : "Groovy",
+            "id" : 234395307759108106,
+            "name" : "Groovy"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 703427289441894441,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 02:08:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-skip",
+        "id" : 703421883680292945,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:47:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "7254",
+            "display_name" : "Groovy",
+            "id" : 234395307759108106,
+            "name" : "Groovy"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 703421853976231946,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:47:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-p skip",
+        "id" : 703421849739984976,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:47:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-shuffle",
+        "id" : 703421759470305370,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:46:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "7254",
+            "display_name" : "Groovy",
+            "id" : 234395307759108106,
+            "name" : "Groovy"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 703421704851947592,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:46:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-p https://open.spotify.com/playlist/47wxk6MKrEYaNE7e5FXJkk?si=lC3h0Y8TTnK18IAEsxI9dA",
+        "id" : 703421701358092308,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:46:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "7254",
+            "display_name" : "Groovy",
+            "id" : 234395307759108106,
+            "name" : "Groovy"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 703421475130048573,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:45:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-p im blue da bu de da bu die",
+        "id" : 703421472265470053,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:45:47",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "7254",
+            "display_name" : "Groovy",
+            "id" : 234395307759108106,
+            "name" : "Groovy"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 703421250919203126,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:44:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2482",
+            "display_name" : "Ryan",
+            "id" : 430477459520225303,
+            "name" : "RyanB"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-p rockstar by nickelback",
+        "id" : 703421246888738887,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:44:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2482",
+            "display_name" : "Ryan",
+            "id" : 430477459520225303,
+            "name" : "RyanB"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "-p nickelback",
+        "id" : 703419971707076669,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-25 01:39:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "9862",
+            "display_name" : "WhitelistBot",
+            "id" : 699739101674471535,
+            "name" : "WhitelistBot"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 700507119232876555,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-17 00:45:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5283",
+            "display_name" : "Isaiah Swanson",
+            "id" : 186190029389824000,
+            "name" : "LordZer0"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "!whitelist add The_Happy_Chap",
+        "id" : 700507117269942292,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-17 00:45:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5605",
+            "display_name" : "Kaleb",
+            "id" : 194437393913348096,
+            "name" : "Kacogg5"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "I need a new skin",
+        "id" : 700498920500887603,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-17 00:12:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "9862",
+            "display_name" : "WhitelistBot",
+            "id" : 699739101674471535,
+            "name" : "WhitelistBot"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 700498693903876157,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-17 00:11:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5605",
+            "display_name" : "Kaleb",
+            "id" : 194437393913348096,
+            "name" : "Kacogg5"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "!whitelist add M1nerman",
+        "id" : 700498690972057733,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-17 00:11:42",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "9862",
+            "display_name" : "WhitelistBot",
+            "id" : 699739101674471535,
+            "name" : "WhitelistBot"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 700439268740300871,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 20:15:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "!whitelist add yu12bu",
+        "id" : 700439266391752755,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 20:15:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "yeet",
+        "id" : 700436794088357948,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 20:05:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "9862",
+            "display_name" : "WhitelistBot",
+            "id" : 699739101674471535,
+            "name" : "WhitelistBot"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 700436764292022304,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 20:05:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1060",
+            "display_name" : "Robbie",
+            "id" : 313464238519877632,
+            "name" : "authorinthedark"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "!whitelist add authorinthedark",
+        "id" : 700436760886509589,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 20:05:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "9862",
+            "display_name" : "WhitelistBot",
+            "id" : 699739101674471535,
+            "name" : "WhitelistBot"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 700427836145795133,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 19:30:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "!whitelist add Lucario404",
+        "id" : 700427832052154490,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 19:30:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : true,
+            "discriminator" : "9862",
+            "display_name" : "WhitelistBot",
+            "id" : 699739101674471535,
+            "name" : "WhitelistBot"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 700427312805445684,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 19:28:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "!whitelist",
+        "id" : 700427312189014116,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-16 19:28:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "!whitelist",
+        "id" : 699756139675385876,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 23:01:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3540",
+            "display_name" : "Chase Crossley",
+            "id" : 383020271336030209,
+            "name" : "dakotac55"
+        },
+        "channel" : {
+            "id" : 699753726768054352,
+            "name" : "bot-commands"
+        },
+        "channel_mentions" : [],
+        "content" : "!whitelist",
+        "id" : 699755217872224288,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-14 22:57:24",
+        "tts" : false
+    }
+]

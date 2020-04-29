@@ -1,0 +1,10 @@
+{
+  "author": ["Eragon5779"],
+  "bot_version": [3,0,0],
+  "short": "Hash files and text",
+  "description": "Hash files or text using any hash guaranteed by hashlib",
+  "disabled": false,
+  "name": "Hash",
+  "tags": ["utility", "hash"],
+  "install_msg": "Usage: `[p] hash <algo> <hash_data>`"
+}

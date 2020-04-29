@@ -1,0 +1,1976 @@
+[
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "see you guys in purgatory",
+        "id" : 702017120317341737,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:45:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "i like that option",
+        "id" : 702017102344880189,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:45:20",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1304",
+            "display_name" : "Justus",
+            "id" : 161275360640499712,
+            "name" : "Neincat"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Thats an option for sure",
+        "id" : 702016928281002005,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:44:38",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!161275360640499712> So what you're sayin is for me to just end it all",
+        "id" : 702015240690204763,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "1304",
+                "display_name" : "Justus",
+                "id" : 161275360640499712,
+                "name" : "Neincat"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:37:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7859",
+            "display_name" : "Daniel",
+            "id" : 494686758454296586,
+            "name" : "\u30c0\u30cb\u30a8\u30eb"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/nice-nooice-bling-key-and-peele-gif-4294979",
+        "id" : 702013704060928040,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:31:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "that's reassuring",
+        "id" : 702013649987829851,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:31:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "sweet!",
+        "id" : 702013583281881109,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:31:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1304",
+            "display_name" : "Justus",
+            "id" : 161275360640499712,
+            "name" : "Neincat"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "I emailed him and asked since id be presenting ~5k lines of code, he told me that just presenting the most important methods was fine",
+        "id" : 702013285557338112,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:30:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "I hope you guys are correct or else a majority of the class is in trouble then",
+        "id" : 702009008793583668,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:13:10",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "either that or he makes our presentation look like shit lol",
+        "id" : 702008610800009296,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:11:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Buckle up boys",
+        "id" : 702008587181883404,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:11:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "betttt",
+        "id" : 702008570186694666,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:11:25",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7859",
+            "display_name" : "Daniel",
+            "id" : 494686758454296586,
+            "name" : "\u30c0\u30cb\u30a8\u30eb"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "damn if Jacob goes first we might be ok then lol",
+        "id" : 702008537265471548,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:11:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Aye I'll take one for the team",
+        "id" : 702008511642468483,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:11:11",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "I'm just dying inside",
+        "id" : 702008465253728286,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:11:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "damn highkey jacob u present 67 slides and then we wont have to present.",
+        "id" : 702008457942794252,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:10:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "i don't understand either",
+        "id" : 702008436044595200,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:10:53",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "You're absolutely right",
+        "id" : 702008394596483152,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:10:43",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Great insight, Daniel",
+        "id" : 702008358839779379,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:10:35",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7859",
+            "display_name" : "Daniel",
+            "id" : 494686758454296586,
+            "name" : "\u30c0\u30cb\u30a8\u30eb"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "if that's the case we won't even time for all the student to present then all their materials",
+        "id" : 702008263612563588,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:10:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "honestly im just doing what i read from the assignment description. ima stevie wonder the part talking bout every piece of code",
+        "id" : 702008241223106611,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:10:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Idk why he's doing it like that but that's what the doc says",
+        "id" : 702008167110017044,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:09:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "yeah i thought that was the point of the uml",
+        "id" : 702008074763894876,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:09:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "He wants screeenshots of the source code of the files along with the actual UML diagrams, *not* screenshots of the UML",
+        "id" : 702008063011323975,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:09:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7859",
+            "display_name" : "Daniel",
+            "id" : 494686758454296586,
+            "name" : "\u30c0\u30cb\u30a8\u30eb"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "so i have to include over 1300 line of code on the slides? lol",
+        "id" : 702008051288506459,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:09:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2482",
+            "display_name" : "Ryan",
+            "id" : 430477459520225303,
+            "name" : "RyanB"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "there are the uml slides and the code slides you need one fact per code slide",
+        "id" : 702008047240740917,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:09:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2482",
+            "display_name" : "Ryan",
+            "id" : 430477459520225303,
+            "name" : "RyanB"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "thats separate",
+        "id" : 702007900243099649,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:08:46",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7859",
+            "display_name" : "Daniel",
+            "id" : 494686758454296586,
+            "name" : "\u30c0\u30cb\u30a8\u30eb"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "but if your uml diagram has the most of the main code isn't that enough lol",
+        "id" : 702007861244461076,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:08:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "huh huh",
+        "id" : 702007832240980006,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:08:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "We're over here explaining how God made the earth",
+        "id" : 702007819309940746,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:08:26",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "he's been a wild child since comin out the womb",
+        "id" : 702007801106399262,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:08:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Sanders is wildin",
+        "id" : 702007780432936962,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:08:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2482",
+            "display_name" : "Ryan",
+            "id" : 430477459520225303,
+            "name" : "RyanB"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "I am still in shock",
+        "id" : 702007768344821860,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:08:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "yeah, but it's sanders",
+        "id" : 702007760467918948,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:08:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2482",
+            "display_name" : "Ryan",
+            "id" : 430477459520225303,
+            "name" : "RyanB"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "thats what I thought",
+        "id" : 702007744709918771,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:08:09",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "he gonna be clicking through 60 pges of code? he wildin",
+        "id" : 702007712166314084,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:08:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2482",
+            "display_name" : "Ryan",
+            "id" : 430477459520225303,
+            "name" : "RyanB"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 702007657279782923,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:07:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2482",
+            "display_name" : "Ryan",
+            "id" : 430477459520225303,
+            "name" : "RyanB"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 702007306145234955,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:06:24",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7859",
+            "display_name" : "Daniel",
+            "id" : 494686758454296586,
+            "name" : "\u30c0\u30cb\u30a8\u30eb"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "yeah if you read the pdf instruction that's what is required",
+        "id" : 702007076120952881,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:05:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "and this was his example.",
+        "id" : 702007028352155648,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:05:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 702007003500904490,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:05:12",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Well",
+        "id" : 702006955593564252,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:05:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Um",
+        "id" : 702006949385863189,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:04:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "thats how i understood",
+        "id" : 702006719731204137,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:04:04",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "uhh the sheet says it must only contain a single screen shot of code that you will talk about per uml diagram (so per file). which means 4 slides of code that u are showing",
+        "id" : 702006704681910342,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:04:01",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "@clement",
+        "id" : 702006581075902475,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:03:31",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "I'll get back to you on that",
+        "id" : 702006503963492494,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:03:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "That sounds correct or is correct?",
+        "id" : 702006477560479775,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:03:06",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "@me",
+        "id" : 702006276774821929,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:02:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "",
+        "id" : 702006272068681738,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:02:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/slowdeath-killmenow-gif-13445430",
+        "id" : 702006194083987510,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:01:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7859",
+            "display_name" : "Daniel",
+            "id" : 494686758454296586,
+            "name" : "\u30c0\u30cb\u30a8\u30eb"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/dumbass-why-nigga-wtf-gif-5731246",
+        "id" : 702006005139243028,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:01:14",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/you-full-blown-crazy-crazy-insane-lol-scared-gif-7369894",
+        "id" : 702005909492334633,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:00:51",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "how",
+        "id" : 702005884414459964,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:00:45",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "what",
+        "id" : 702005867020550155,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:00:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "LOL I'M ON SLIDE 32 OF 67",
+        "id" : 702005828047339571,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 04:00:32",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2482",
+            "display_name" : "Ryan",
+            "id" : 430477459520225303,
+            "name" : "RyanB"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "You should take static screenshots of the code, and paste those into slides. Your slides will need to include the entire code of each entire file. Professor Sanders will be clicking through the slides, so you should not expect to just scroll through the code.",
+        "id" : 702005677861896282,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:59:56",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "this is the most pointeless assignment of this entire class",
+        "id" : 702005672480604201,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:59:54",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7859",
+            "display_name" : "Daniel",
+            "id" : 494686758454296586,
+            "name" : "\u30c0\u30cb\u30a8\u30eb"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "i don't there is required amount",
+        "id" : 702005652695941230,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:59:50",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7859",
+            "display_name" : "Daniel",
+            "id" : 494686758454296586,
+            "name" : "\u30c0\u30cb\u30a8\u30eb"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "i have like 9 slides",
+        "id" : 702005617237295135,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:59:41",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "yeh one uml and then screen shot of code",
+        "id" : 702005536102547468,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:59:22",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "OOPs. Didnt read the channel",
+        "id" : 702005523456720926,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:59:19",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Bro, im on lieke 13/100",
+        "id" : 702005518008582154,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:59:18",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "5855",
+            "display_name" : "Jacob",
+            "id" : 467180953517686785,
+            "name" : "Jacobi"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "<@!173705394944737280> Alex you aren't taking graphics",
+        "id" : 702005496550391898,
+        "mention_everyone" : false,
+        "mentions" : [
+            {
+                "bot" : false,
+                "discriminator" : "9852",
+                "display_name" : "Alex",
+                "id" : 173705394944737280,
+                "name" : "YouBoo"
+            }
+        ],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:59:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "8 slides???",
+        "id" : 702005479580237845,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:59:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "No, ICA5 for Graphics",
+        "id" : 702005445606375464,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:59:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "it should be 8 i think",
+        "id" : 702005444968710216,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:59:00",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "IP4?",
+        "id" : 702005396466040992,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:58:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "ICS?",
+        "id" : 702005379013410908,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:58:44",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "How many slides did you guys have to do for the ICA5?",
+        "id" : 702005334696263811,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-21 03:58:34",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "nevermind i found it",
+        "id" : 694776632443142154,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 05:14:17",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "\u02dc/Sauerbraten/src/ this one",
+        "id" : 694776112898769016,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 05:12:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "was anybody able to find the director for the homework tonight?",
+        "id" : 694776035027452044,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-04-01 05:11:55",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4015",
+            "display_name" : "TJ",
+            "id" : 183638326354509826,
+            "name" : "timroejr"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "https://youtu.be/44MyrH4jwOQ",
+        "id" : 693866678592864277,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-29 16:58:27",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "https://tenor.com/view/warning-gif-7563076",
+        "id" : 687017462444851251,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-10 19:22:07",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "9852",
+            "display_name" : "Alex",
+            "id" : 173705394944737280,
+            "name" : "YouBoo"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "\u26a0\ufe0f DO NOT COPY\u26a0\ufe0f",
+        "id" : 687017384199979198,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-10 19:21:48",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "CameraScript for unity, modify it  DO NOT DIRECTLY COPY",
+        "id" : 687017270467493929,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-03-10 19:21:21",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Anyone figure out the math for it?",
+        "id" : 682092635275657217,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-26 05:12:36",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "I don't think he will do that. Did anyone get the bounding box on the players to rotate with the image so the image is not warped?",
+        "id" : 677802921118662657,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-14 09:06:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6987",
+            "display_name" : "Scott",
+            "id" : 628010316805963786,
+            "name" : "sho"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "who's ready for -500 points",
+        "id" : 677765273146884098,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-14 06:37:13",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "nope",
+        "id" : 675234137363185667,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-07 06:59:23",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "2482",
+            "display_name" : "Ryan",
+            "id" : 430477459520225303,
+            "name" : "RyanB"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Did Sanders ever say how long the HW extension was?",
+        "id" : 675234101548023858,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-07 06:59:15",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "I never got it working either. Stopping following a long after like the 2 session",
+        "id" : 675015723877269504,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-06 16:31:29",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Can someone post their working asteroids java file, I rather not look through the code to find what I missed when typing",
+        "id" : 674877508809916419,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-06 07:22:16",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "4828",
+            "display_name" : "Aaron",
+            "id" : 470085508744216596,
+            "name" : "a2theron"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Nope",
+        "id" : 674871859178897408,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-06 06:59:49",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "1304",
+            "display_name" : "Justus",
+            "id" : 161275360640499712,
+            "name" : "Neincat"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "Not a chance, but i think i can do everything except barriers",
+        "id" : 674858059591450644,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-06 06:04:59",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "3729",
+            "display_name" : "isaOrdaz",
+            "id" : 495920975477604353,
+            "name" : "isaOrdaz"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "it\u2019s a no from me",
+        "id" : 674854946352660480,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-06 05:52:37",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "7320",
+            "display_name" : "Jesse",
+            "id" : 288770460437577738,
+            "name" : "zZblackx0utZz"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "I didn\u2019t",
+        "id" : 674849792383385600,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-06 05:32:08",
+        "tts" : false
+    },
+    {
+        "author" : {
+            "bot" : false,
+            "discriminator" : "6987",
+            "display_name" : "Scott",
+            "id" : 628010316805963786,
+            "name" : "sho"
+        },
+        "channel" : {
+            "id" : 673046378187980812,
+            "name" : "csc313-graphics"
+        },
+        "channel_mentions" : [],
+        "content" : "so who in here is actually finished with the graphics HW due tomorrow?",
+        "id" : 674847207140360223,
+        "mention_everyone" : false,
+        "mentions" : [],
+        "pinned" : false,
+        "role_mentions" : [],
+        "timestamp" : "2020-02-06 05:21:52",
+        "tts" : false
+    }
+]
