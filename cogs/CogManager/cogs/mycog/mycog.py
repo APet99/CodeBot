@@ -10,6 +10,7 @@ class Mycog(commands.Cog):
         }
         self.config.register_global(**default_global)
     '''
+
     @commands.command()
     async def mycom(self, ctx):
         """This does stuff!"""
