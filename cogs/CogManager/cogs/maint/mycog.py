@@ -12,6 +12,13 @@ class maint(commands.Cog):
         self.config.register_global(**default_global)
     '''
 
+    @commands.command()
+    async def update(self, ctx):
+        """This does stuff!"""
+        # Your code will go here
+
+        await ctx.shutdown(restart=True)
+
     def replace(file, pattern, subst):
         # Read contents from file as a single string
         file_handle = open(file, 'r')
